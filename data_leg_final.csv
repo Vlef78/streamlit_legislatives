@@ -1,0 +1,578 @@
+,id_circonscription,Code_département,Libellé_département,Code_circonscription,Libellé_circonscription,Etat_saisie,Inscrits,Abstentions,Abs_Ins,Votants,Vot_Ins,Blancs,Blancs_Ins,Blancs_Vot,Nuls,Nuls_Ins,Nuls_Vot,Exprimés,Exp_Ins,Exp_Vot,No_Panneau,Sexe,Nom,Prénom,Nuance,Voix,Voix/Ins,Voix/Exp,Sièges,Victoire_contre
+0,01001,01,Ain,1,1ère circonscription,Complet,86194,45446,52.73,40748,47.27,1587,1.84,3.89,552,0.64,1.35,38609,44.79,94.75,3,M,BRETON,Xavier,Les Républicains,24407,28.32,63.22,Elu,NUPES
+1,01002,01,Ain,2,2ème circonscription,Complet,99979,53307,53.32,46672,46.68,3033,3.03,6.5,855,0.86,1.83,42784,42.79,91.67,2,M,DAUBIÉ,Romain,Ensemble!,24960,24.97,58.34,Elu,NUPES
+2,01003,01,Ain,3,3ème circonscription,Complet,82207,48291,58.74,33916,41.26,1870,2.27,5.51,716,0.87,2.11,31330,38.11,92.38,3,F,GIVERNET,Olga,Ensemble!,18398,22.38,58.72,Elu,NUPES
+3,01004,01,Ain,4,4ème circonscription,Complet,94903,51702,54.48,43201,45.52,5450,5.74,12.62,1454,1.53,3.37,36297,38.25,84.02,4,M,BUISSON,Jérôme,Rassemblement National,22601,23.81,62.27,Elu,NUPES
+4,01005,01,Ain,5,5ème circonscription,Complet,77466,43704,56.42,33762,43.58,2354,3.04,6.97,839,1.08,2.49,30569,39.46,90.54,4,M,ABAD,Damien,Divers droite,17687,22.83,57.86,Elu,NUPES
+5,02001,02,Aisne,1,1ère circonscription,Complet,72483,38746,53.46,33737,46.54,1869,2.58,5.54,602,0.83,1.78,31266,43.14,92.68,7,M,DRAGON,Nicolas,Rassemblement National,17049,23.52,54.53,Elu,Ensemble!
+6,02002,02,Aisne,2,2ème circonscription,Complet,73189,41347,56.49,31842,43.51,1332,1.82,4.18,489,0.67,1.54,30021,41.02,94.28,2,M,DIVE,Julien,Les Républicains,17463,23.86,58.17,Elu,Rassemblement National
+7,02003,02,Aisne,3,3ème circonscription,Complet,66718,36693,55.0,30025,45.0,1137,1.7,3.79,467,0.7,1.56,28421,42.6,94.66,6,M,BRICOUT,Jean-Louis,NUPES,15612,23.4,54.93,Elu,Rassemblement National
+8,02004,02,Aisne,4,4ème circonscription,Complet,78778,45449,57.69,33329,42.31,1886,2.39,5.66,669,0.85,2.01,30774,39.06,92.33,1,M,BEAURAIN,José,Rassemblement National,17587,22.32,57.15,Elu,Ensemble!
+9,02005,02,Aisne,5,5ème circonscription,Complet,83139,45021,54.15,38118,45.85,4076,4.9,10.69,1050,1.26,2.75,32992,39.68,86.55,4,M,DESSIGNY,Jocelyn,Rassemblement National,20589,24.76,62.41,Elu,NUPES
+10,03001,03,Allier,1,1ère circonscription,Complet,89357,45731,51.18,43626,48.82,2809,3.14,6.44,1489,1.67,3.41,39328,44.01,90.15,9,M,MONNET,Yannick,NUPES,21832,24.43,55.51,Elu,Ensemble!
+11,03002,03,Allier,2,2ème circonscription,Complet,80971,42075,51.96,38896,48.04,4699,5.8,12.08,2105,2.6,5.41,32092,39.63,82.51,9,M,BOVET,Jorys,Rassemblement National,16116,19.9,50.22,Elu,NUPES
+12,03003,03,Allier,3,3ème circonscription,Complet,80194,44317,55.26,35877,44.74,2902,3.62,8.09,1332,1.66,3.71,31643,39.46,88.2,3,M,RAY,Nicolas,Les Républicains,19296,24.06,60.98,Elu,Ensemble!
+13,04001,04,Alpes-de-Haute-Provence,1,1ère circonscription,Complet,61975,29473,47.56,32502,52.44,2626,4.24,8.08,985,1.59,3.03,28891,46.62,88.89,11,M,GIRARD,Christian,Rassemblement National,14791,23.87,51.2,Elu,NUPES
+14,04002,04,Alpes-de-Haute-Provence,2,2ème circonscription,Complet,66651,32124,48.2,34527,51.8,2329,3.49,6.75,1001,1.5,2.9,31197,46.81,90.36,12,M,WALTER,Léo,NUPES,16063,24.1,51.49,Elu,Ensemble!
+15,05001,05,Hautes-Alpes,1,1ère circonscription,Complet,59652,29125,48.82,30527,51.18,2117,3.55,6.93,1075,1.8,3.52,27335,45.82,89.54,3,F,BOYER,Pascale,Ensemble!,13767,23.08,50.36,Elu,NUPES
+16,05002,05,Hautes-Alpes,2,2ème circonscription,Complet,54275,25674,47.3,28601,52.7,1364,2.51,4.77,629,1.16,2.2,26608,49.02,93.03,1,M,GIRAUD,Joel,Ensemble!,15058,27.74,56.59,Elu,NUPES
+17,06001,06,Alpes-Maritimes,1,1ère circonscription,Complet,82309,48326,58.71,33983,41.29,1827,2.22,5.38,668,0.81,1.97,31488,38.26,92.66,2,M,CIOTTI,Eric,Les Républicains,17737,21.55,56.33,Elu,Ensemble!
+18,06002,06,Alpes-Maritimes,2,2ème circonscription,Complet,89183,50126,56.21,39057,43.79,2349,2.63,6.01,782,0.88,2.0,35926,40.28,91.98,9,M,TIVOLI,Lionel,Rassemblement National,18557,20.81,51.65,Elu,Ensemble!
+19,06003,06,Alpes-Maritimes,3,3ème circonscription,Complet,91815,55165,60.08,36650,39.92,2397,2.61,6.54,1099,1.2,3.0,33154,36.11,90.46,7,M,PRADAL,Philippe,Ensemble!,19043,20.74,57.44,Elu,NUPES
+20,06004,06,Alpes-Maritimes,4,4ème circonscription,Complet,85291,48154,56.46,37137,43.54,1737,2.04,4.68,728,0.85,1.96,34672,40.65,93.36,9,F,MASSON,Alexandra,Rassemblement National,19487,22.85,56.2,Elu,Ensemble!
+21,06005,06,Alpes-Maritimes,5,5ème circonscription,Complet,91178,53865,59.08,37313,40.92,2111,2.32,5.66,765,0.84,2.05,34437,37.77,92.29,6,F,D'INTORNI,Christelle,Les Républicains,19814,21.73,57.54,Elu,Ensemble!
+22,06006,06,Alpes-Maritimes,6,6ème circonscription,Complet,80177,43857,54.7,36320,45.3,1876,2.34,5.17,238,0.3,0.66,34206,42.66,94.18,8,M,MASSON,Bryan,Rassemblement National,17564,21.91,51.35,Elu,Ensemble!
+23,06007,06,Alpes-Maritimes,7,7ème circonscription,Complet,97545,56322,57.74,41223,42.26,2461,2.52,5.97,528,0.54,1.28,38234,39.2,92.75,3,M,PAUGET,Eric,Les Républicains,22496,23.06,58.84,Elu,Ensemble!
+24,06008,06,Alpes-Maritimes,8,8ème circonscription,Complet,84308,51053,60.56,33255,39.44,1736,2.06,5.22,415,0.49,1.25,31104,36.89,93.53,10,F,MARTIN,Alexandra,Les Républicains,21547,25.56,69.27,Elu,Ensemble!
+25,06009,06,Alpes-Maritimes,9,9ème circonscription,Complet,81481,47553,58.36,33928,41.64,1826,2.24,5.38,456,0.56,1.34,31646,38.84,93.27,2,F,TABAROT,Michèle,Les Républicains,19955,24.49,63.06,Elu,Rassemblement National
+26,07001,07,Ardèche,1,1ère circonscription,Complet,79312,40097,50.56,39215,49.44,2390,3.01,6.09,936,1.18,2.39,35889,45.25,91.52,4,M,SAULIGNAC,Hervé,Divers gauche,21550,27.17,60.05,Elu,Rassemblement National
+27,07002,07,Ardèche,2,2ème circonscription,Complet,96579,48634,50.36,47945,49.64,3099,3.21,6.46,1207,1.25,2.52,43639,45.18,91.02,9,M,DUSSOPT,Olivier,Ensemble!,25684,26.59,58.86,Elu,NUPES
+28,07003,07,Ardèche,3,3ème circonscription,Complet,80836,34702,42.93,46134,57.07,1755,2.17,3.8,786,0.97,1.7,43593,53.93,94.49,4,M,BRUN,Fabrice,Les Républicains,24896,30.8,57.11,Elu,NUPES
+29,08001,08,Ardennes,1,1ère circonscription,Complet,70966,38944,54.88,32022,45.12,1814,2.56,5.66,684,0.96,2.14,29524,41.6,92.2,4,M,VUIBERT,Lionel,Ensemble!,14861,20.94,50.34,Elu,Rassemblement National
+30,08002,08,Ardennes,2,2ème circonscription,Complet,60754,36321,59.78,24433,40.22,1001,1.65,4.1,406,0.67,1.66,23026,37.9,94.24,9,M,CORDIER,Pierre,Les Républicains,15977,26.3,69.39,Elu,Rassemblement National
+31,08003,08,Ardennes,3,3ème circonscription,Complet,55162,30999,56.2,24163,43.8,816,1.48,3.38,357,0.65,1.48,22990,41.68,95.15,4,M,WARSMANN,Jean-Luc,Divers droite,15575,28.24,67.75,Elu,Rassemblement National
+32,09001,09,Ariège,1,1ère circonscription,Complet,57471,27001,46.98,30470,53.02,2405,4.18,7.89,1402,2.44,4.6,26663,46.39,87.51,2,F,TAURINE,Bénédicte,NUPES,14746,25.66,55.31,Elu,Ensemble!
+33,09002,09,Ariège,2,2ème circonscription,Complet,62032,30329,48.89,31703,51.11,1912,3.08,6.03,1183,1.91,3.73,28608,46.12,90.24,5,M,PANIFOUS,Laurent,Divers gauche,16225,26.16,56.71,Elu,NUPES
+34,10001,10,Aube,1,1ère circonscription,Complet,64552,32773,50.77,31779,49.23,1389,2.15,4.37,527,0.82,1.66,29863,46.26,93.97,3,M,GUITTON,Jordan,Rassemblement National,16093,24.93,53.89,Elu,Ensemble!
+35,10002,10,Aube,2,2ème circonscription,Complet,75273,40144,53.33,35129,46.67,1523,2.02,4.34,450,0.6,1.28,33156,44.05,94.38,9,F,BAZIN-MALGRAS,Valérie,Les Républicains,19730,26.21,59.51,Elu,Rassemblement National
+36,10003,10,Aube,3,3ème circonscription,Complet,66562,37324,56.07,29238,43.93,1659,2.49,5.67,642,0.96,2.2,26937,40.47,92.13,10,F,RANC,Angélique,Rassemblement National,13913,20.9,51.65,Elu,Ensemble!
+37,11001,11,Aude,1,1ère circonscription,Complet,98468,48254,49.0,50214,51.0,3992,4.05,7.95,1575,1.6,3.14,44647,45.34,88.91,6,M,BARTHÈS,Christophe,Rassemblement National,23914,24.29,53.56,Elu,NUPES
+38,11002,11,Aude,2,2ème circonscription,Complet,92652,48947,52.83,43705,47.17,3102,3.35,7.1,1160,1.25,2.65,39443,42.57,90.25,2,M,FALCON,Frédéric,Rassemblement National,20719,22.36,52.53,Elu,Ensemble!
+39,11003,11,Aude,3,3ème circonscription,Complet,89795,40032,44.58,49763,55.42,5155,5.74,10.36,1989,2.22,4.0,42619,47.46,85.64,3,M,RANCOULE,Julien,Rassemblement National,22725,25.31,53.32,Elu,NUPES
+40,12001,12,Aveyron,1,1ère circonscription,Complet,78139,38450,49.21,39689,50.79,2323,2.97,5.85,1115,1.43,2.81,36251,46.39,91.34,3,M,MAZARS,Stéphane,Ensemble!,23138,29.61,63.83,Elu,NUPES
+41,12002,12,Aveyron,2,2ème circonscription,Complet,69154,31447,45.47,37707,54.53,2290,3.31,6.07,1390,2.01,3.69,34027,49.2,90.24,2,M,ALEXANDRE,Laurent,NUPES,17352,25.09,50.99,Elu,Ensemble!
+42,12003,12,Aveyron,3,3ème circonscription,Complet,72518,33137,45.69,39381,54.31,2727,3.76,6.92,1585,2.19,4.02,35069,48.36,89.05,2,M,ROUSSET,Jean-François,Ensemble!,18835,25.97,53.71,Elu,NUPES
+43,13001,13,Bouches-du-Rhône,1,1ère circonscription,Complet,81458,48574,59.63,32884,40.37,1969,2.42,5.99,476,0.58,1.45,30439,37.37,92.56,12,F,AGRESTI ROUBACHE,Sabrina,Ensemble!,15459,18.98,50.79,Elu,Rassemblement National
+44,13002,13,Bouches-du-Rhône,2,2ème circonscription,Complet,83607,45287,54.17,38320,45.83,1900,2.27,4.96,718,0.86,1.87,35702,42.7,93.17,5,F,PITOLLAT,Claire,Ensemble!,22005,26.32,61.64,Elu,NUPES
+45,13003,13,Bouches-du-Rhône,3,3ème circonscription,Complet,75992,47757,62.84,28235,37.16,1749,2.3,6.19,468,0.62,1.66,26018,34.24,92.15,1,F,LELOUIS,Gisèle,Rassemblement National,14300,18.82,54.96,Elu,NUPES
+46,13004,13,Bouches-du-Rhône,4,4ème circonscription,Complet,64943,40532,62.41,24411,37.59,882,1.36,3.61,371,0.57,1.52,23158,35.66,94.87,7,M,BOMPARD,Manuel,NUPES,17118,26.36,73.92,Elu,Ensemble!
+47,13005,13,Bouches-du-Rhône,5,5ème circonscription,Complet,73610,40896,55.56,32714,44.44,1588,2.16,4.85,591,0.8,1.81,30535,41.48,93.34,14,M,DAVI,Hendrik,NUPES,17295,23.5,56.64,Elu,Ensemble!
+48,13006,13,Bouches-du-Rhône,6,6ème circonscription,Complet,78511,47583,60.61,30928,39.39,1716,2.19,5.55,456,0.58,1.47,28756,36.63,92.98,12,M,ROYER-PERREAUT,Lionel,Ensemble!,16646,21.2,57.89,Elu,Rassemblement National
+49,13007,13,Bouches-du-Rhône,7,7ème circonscription,Complet,67134,47738,71.11,19396,28.89,671,1.0,3.46,234,0.35,1.21,18491,27.54,95.33,7,M,DELOGU,Sébastien,NUPES,11960,17.82,64.68,Elu,Rassemblement National
+50,13008,13,Bouches-du-Rhône,8,8ème circonscription,Complet,102850,56801,55.23,46049,44.77,2364,2.3,5.13,758,0.74,1.65,42927,41.74,93.22,8,M,ZULESI,Jean-Marc,Ensemble!,22823,22.19,53.17,Elu,Rassemblement National
+51,13009,13,Bouches-du-Rhône,9,9ème circonscription,Complet,100963,55584,55.05,45379,44.95,3810,3.77,8.4,1056,1.05,2.33,40513,40.13,89.28,15,F,MÉLIN,Joëlle,Rassemblement National,23757,23.53,58.64,Elu,NUPES
+52,13010,13,Bouches-du-Rhône,10,10ème circonscription,Complet,109100,57531,52.73,51569,47.27,4399,4.03,8.53,1109,1.02,2.15,46061,42.22,89.32,7,M,GONZALEZ,José,Rassemblement National,27463,25.17,59.62,Elu,NUPES
+53,13011,13,Bouches-du-Rhône,11,11ème circonscription,Complet,92291,51339,55.63,40952,44.37,2573,2.79,6.28,776,0.84,1.89,37603,40.74,91.82,9,M,LAQHILA,Mohamed,Ensemble!,20753,22.49,55.19,Elu,Rassemblement National
+54,13012,13,Bouches-du-Rhône,12,12ème circonscription,Complet,94710,55338,58.43,39372,41.57,1633,1.72,4.15,410,0.43,1.04,37329,39.41,94.81,6,M,ALLISIO,Franck,Rassemblement National,19175,20.25,51.37,Elu,Les Républicains
+55,13013,13,Bouches-du-Rhône,13,13ème circonscription,Complet,94398,52724,55.85,41674,44.15,2261,2.4,5.43,760,0.81,1.82,38653,40.95,92.75,2,M,DHARRÉVILLE,Pierre,NUPES,20105,21.3,52.01,Elu,Rassemblement National
+56,13014,13,Bouches-du-Rhône,14,14ème circonscription,Complet,99313,52796,53.16,46517,46.84,2707,2.73,5.82,1161,1.17,2.5,42649,42.94,91.68,10,F,PETEL,Anne-Laurence,Ensemble!,24245,24.41,56.85,Elu,NUPES
+57,13015,13,Bouches-du-Rhône,15,15ème circonscription,Complet,109281,57379,52.51,51902,47.49,3079,2.82,5.93,1208,1.11,2.33,47615,43.57,91.74,11,M,BAUBRY,Romain,Rassemblement National,25640,23.46,53.85,Elu,Ensemble!
+58,13016,13,Bouches-du-Rhône,16,16ème circonscription,Complet,91764,49943,54.43,41821,45.57,2808,3.06,6.71,1116,1.22,2.67,37897,41.3,90.62,1,M,TACHE DE LA PAGERIE,Emmanuel,Rassemblement National,20820,22.69,54.94,Elu,NUPES
+59,14001,14,Calvados,1,1ère circonscription,Complet,72799,33769,46.39,39030,53.61,1598,2.2,4.09,640,0.88,1.64,36792,50.54,94.27,8,M,LE VIGOUREUX,Fabrice,Ensemble!,18496,25.41,50.27,Elu,NUPES
+60,14002,14,Calvados,2,2ème circonscription,Complet,68628,35094,51.14,33534,48.86,1190,1.73,3.55,665,0.97,1.98,31679,46.16,94.47,10,M,DELAPORTE,Arthur,NUPES,18963,27.63,59.86,Elu,Ensemble!
+61,14003,14,Calvados,3,3ème circonscription,Complet,79782,41796,52.39,37986,47.61,2450,3.07,6.45,871,1.09,2.29,34665,43.45,91.26,3,M,PATRIER-LEITUS,Jérémie,Ensemble!,18545,23.24,53.5,Elu,Rassemblement National
+62,14004,14,Calvados,4,4ème circonscription,Complet,104666,53624,51.23,51042,48.77,2564,2.45,5.02,1131,1.08,2.22,47347,45.24,92.76,1,M,BLANCHET,Christophe,Ensemble!,28920,27.63,61.08,Elu,NUPES
+63,14005,14,Calvados,5,5ème circonscription,Complet,92542,45218,48.86,47324,51.14,2685,2.9,5.67,1116,1.21,2.36,43523,47.03,91.97,2,M,BOUYX,Bertrand,Ensemble!,24235,26.19,55.68,Elu,NUPES
+64,14006,14,Calvados,6,6ème circonscription,Complet,96463,47906,49.66,48557,50.34,2602,2.7,5.36,1287,1.33,2.65,44668,46.31,91.99,2,F,BORNE,Elisabeth,Ensemble!,23435,24.29,52.46,Elu,NUPES
+65,15001,15,Cantal,1,1ère circonscription,Complet,63106,33541,53.15,29565,46.85,2263,3.59,7.65,985,1.56,3.33,26317,41.7,89.01,1,M,DESCOEUR,Vincent,Les Républicains,18165,28.78,69.02,Elu,Ensemble!
+66,15002,15,Cantal,2,2ème circonscription,Complet,52857,28160,53.28,24697,46.72,2040,3.86,8.26,798,1.51,3.23,21859,41.35,88.51,1,M,BONY,Jean-Yves,Les Républicains,15443,29.22,70.65,Elu,Ensemble!
+67,16001,16,Charente,1,1ère circonscription,Complet,83763,42981,51.31,40782,48.69,2012,2.4,4.93,1086,1.3,2.66,37684,44.99,92.4,4,M,MESNIER,Thomas,Ensemble!,18854,22.51,50.03,Elu,NUPES
+68,16002,16,Charente,2,2ème circonscription,Complet,83709,43745,52.26,39964,47.74,2623,3.13,6.56,1149,1.37,2.88,36192,43.24,90.56,2,F,MARSAUD,Sandra,Ensemble!,19964,23.85,55.16,Elu,Rassemblement National
+69,16003,16,Charente,3,3ème circonscription,Complet,90899,45587,50.15,45312,49.85,3669,4.04,8.1,1876,2.06,4.14,39767,43.75,87.76,10,F,COLOMBIER,Caroline,Rassemblement National,19980,21.98,50.24,Elu,Ensemble!
+70,17001,17,Charente-Maritime,1,1ère circonscription,Complet,110471,55925,50.62,54546,49.38,1602,1.45,2.94,647,0.59,1.19,52297,47.34,95.88,2,M,FALORNI,Olivier,Divers gauche,34576,31.3,66.11,Elu,NUPES
+71,17002,17,Charente-Maritime,2,2ème circonscription,Complet,112184,57655,51.39,54529,48.61,3247,2.89,5.95,1312,1.17,2.41,49970,44.54,91.64,11,F,BABAULT,Anne-Laure,Ensemble!,25863,23.05,51.76,Elu,NUPES
+72,17003,17,Charente-Maritime,3,3ème circonscription,Complet,84195,43918,52.16,40277,47.84,3240,3.85,8.04,1290,1.53,3.2,35747,42.46,88.75,2,M,ARDOUIN,Jean-Philippe,Ensemble!,18295,21.73,51.18,Elu,Rassemblement National
+73,17004,17,Charente-Maritime,4,4ème circonscription,Complet,94407,48218,51.07,46189,48.93,2921,3.09,6.32,1136,1.2,2.46,42132,44.63,91.22,3,M,GERARD,Raphaël,Ensemble!,21447,22.72,50.9,Elu,Rassemblement National
+74,17005,17,Charente-Maritime,5,5ème circonscription,Complet,119750,60244,50.31,59506,49.69,3646,3.04,6.13,1291,1.08,2.17,54569,45.57,91.7,9,M,PLASSARD,Christophe,Ensemble!,28233,23.58,51.74,Elu,Rassemblement National
+75,18001,18,Cher,1,1ère circonscription,Complet,71165,37784,53.09,33381,46.91,2606,3.66,7.81,819,1.15,2.45,29956,42.09,89.74,6,M,CORMIER BOULIGEON,François,Ensemble!,17116,24.05,57.14,Elu,NUPES
+76,18002,18,Cher,2,2ème circonscription,Complet,68858,38421,55.8,30437,44.2,2891,4.2,9.5,1000,1.45,3.29,26546,38.55,87.22,9,M,SANSU,Nicolas,NUPES,14433,20.96,54.37,Elu,Rassemblement National
+77,18003,18,Cher,3,3ème circonscription,Complet,84503,43839,51.88,40664,48.12,2667,3.16,6.56,795,0.94,1.96,37202,44.02,91.49,8,M,KERVRAN,Loïc,Ensemble!,20435,24.18,54.93,Elu,Rassemblement National
+78,19001,19,Corrèze,1,1ère circonscription,Complet,92424,39658,42.91,52766,57.09,2815,3.05,5.33,1953,2.11,3.7,47998,51.93,90.96,7,M,DUBOIS,Francis,Les Républicains,25825,27.94,53.8,Elu,NUPES
+79,19002,19,Corrèze,2,2ème circonscription,Complet,93152,44631,47.91,48521,52.09,2536,2.72,5.23,1671,1.79,3.44,44314,47.57,91.33,5,F,MEUNIER,Frédérique,Les Républicains,25881,27.78,58.4,Elu,NUPES
+80,21001,21,Côte-d'Or,1,1ère circonscription,Complet,70369,34169,48.56,36200,51.44,2026,2.88,5.6,616,0.88,1.7,33558,47.69,92.7,1,M,MARTIN,Didier,Ensemble!,19473,27.67,58.03,Elu,NUPES
+81,21002,21,Côte-d'Or,2,2ème circonscription,Complet,71506,37912,53.02,33594,46.98,2294,3.21,6.83,901,1.26,2.68,30399,42.51,90.49,4,M,BORDAT,Benoît,Ensemble!,15715,21.98,51.7,Elu,NUPES
+82,21003,21,Côte-d'Or,3,3ème circonscription,Complet,72561,39646,54.64,32915,45.36,2388,3.29,7.26,792,1.09,2.41,29735,40.98,90.34,13,F,KHATTABI,Fadila,Ensemble!,14900,20.53,50.11,Elu,NUPES
+83,21004,21,Côte-d'Or,4,4ème circonscription,Complet,68400,33383,48.81,35017,51.19,2472,3.61,7.06,754,1.1,2.15,31791,46.48,90.79,7,M,BRIGAND,Hubert,Les Républicains,19291,28.2,60.68,Elu,Rassemblement National
+84,21005,21,Côte-d'Or,5,5ème circonscription,Complet,85691,44903,52.4,40788,47.6,3039,3.55,7.45,818,0.95,2.01,36931,43.1,90.54,8,M,PARIS,Didier,Ensemble!,20031,23.38,54.24,Elu,Rassemblement National
+85,22001,22,Côtes-d'Armor,1,1ère circonscription,Complet,91918,42841,46.61,49077,53.39,2185,2.38,4.45,1004,1.09,2.05,45888,49.92,93.5,3,M,COSSON,Mickaël,Ensemble!,24043,26.16,52.39,Elu,NUPES
+86,22002,22,Côtes-d'Armor,2,2ème circonscription,Complet,103429,46512,44.97,56917,55.03,2828,2.73,4.97,1414,1.37,2.48,52675,50.93,92.55,1,M,BERVILLE,Hervé,Ensemble!,29411,28.44,55.83,Elu,NUPES
+87,22003,22,Côtes-d'Armor,3,3ème circonscription,Complet,88979,40656,45.69,48323,54.31,1344,1.51,2.78,713,0.8,1.48,46266,52.0,95.74,7,M,LE FUR,Marc,Les Républicains,30012,33.73,64.87,Elu,NUPES
+88,22004,22,Côtes-d'Armor,4,4ème circonscription,Complet,81129,36841,45.41,44288,54.59,2280,2.81,5.15,1353,1.67,3.06,40655,50.11,91.8,2,F,LEPVRAUD,Murielle,NUPES,21716,26.77,53.42,Elu,Ensemble!
+89,22005,22,Côtes-d'Armor,5,5ème circonscription,Complet,107732,47133,43.75,60599,56.25,2952,2.74,4.87,1454,1.35,2.4,56193,52.16,92.73,14,M,BOTHOREL,Eric,Ensemble!,29496,27.38,52.49,Elu,NUPES
+90,23001,23,Creuse,1,1ère circonscription,Complet,91036,43094,47.34,47942,52.66,3438,3.78,7.17,2220,2.44,4.63,42284,46.45,88.2,6,F,COUTURIER,Catherine,NUPES,21752,23.89,51.44,Elu,Ensemble!
+91,24001,24,Dordogne,1,1ère circonscription,Complet,77823,37874,48.67,39949,51.33,2671,3.43,6.69,1859,2.39,4.65,35419,45.51,88.66,8,F,MARTIN,Pascale,NUPES,18366,23.6,51.85,Elu,Ensemble!
+92,24002,24,Dordogne,2,2ème circonscription,Complet,84297,41662,49.42,42635,50.58,3502,4.15,8.21,1681,1.99,3.94,37452,44.43,87.84,3,M,MULLER,Serge,Rassemblement National,18891,22.41,50.44,Elu,Ensemble!
+93,24003,24,Dordogne,3,3ème circonscription,Complet,67369,26643,39.55,40726,60.45,970,1.44,2.38,646,0.96,1.59,39110,58.05,96.03,10,M,CUBERTAFON,Jean-Pierre,Ensemble!,14284,21.2,36.52,Elu,NUPES
+94,24004,24,Dordogne,4,4ème circonscription,Complet,89793,40758,45.39,49035,54.61,3231,3.6,6.59,2126,2.37,4.34,43678,48.64,89.08,2,M,PEYTAVIE,Sébastien,NUPES,24233,26.99,55.48,Elu,Divers centre
+95,25001,25,Doubs,1,1ère circonscription,Complet,76211,39382,51.67,36829,48.33,2229,2.92,6.05,937,1.23,2.54,33663,44.17,91.4,6,M,CROIZIER,Laurent,Ensemble!,17465,22.92,51.88,Elu,NUPES
+96,25002,25,Doubs,2,2ème circonscription,Complet,79175,38775,48.97,40400,51.03,2455,3.1,6.08,1093,1.38,2.71,36852,46.54,91.22,3,M,ALAUZET,Eric,Ensemble!,19258,24.32,52.26,Elu,NUPES
+97,25003,25,Doubs,3,3ème circonscription,Complet,64514,34752,53.87,29762,46.13,2010,3.12,6.75,695,1.08,2.34,27057,41.94,90.91,3,M,PACQUOT,Nicolas,Ensemble!,13754,21.32,50.83,Elu,Rassemblement National
+98,25004,25,Doubs,4,4ème circonscription,Complet,65553,37331,56.95,28222,43.05,1456,2.22,5.16,572,0.87,2.03,26194,39.96,92.81,3,F,GRANGIER,Géraldine,Rassemblement National,13357,20.38,50.99,Elu,Ensemble!
+99,25005,25,Doubs,5,5ème circonscription,Complet,84722,49620,58.57,35102,41.43,2594,3.06,7.39,1035,1.22,2.95,31473,37.15,89.66,1,F,GENEVARD,Annie,Les Républicains,22678,26.77,72.06,Elu,Ensemble!
+100,26001,26,Drôme,1,1ère circonscription,Complet,77957,42332,54.3,35625,45.7,2028,2.6,5.69,944,1.21,2.65,32653,41.89,91.66,1,F,CLAPOT,Mireille,Ensemble!,17769,22.79,54.42,Elu,NUPES
+101,26002,26,Drôme,2,2ème circonscription,Complet,95930,52090,54.3,43840,45.7,4577,4.77,10.44,1508,1.57,3.44,37755,39.36,86.12,1,F,POLLET,Lisette,Rassemblement National,21566,22.48,57.12,Elu,NUPES
+102,26003,26,Drôme,3,3ème circonscription,Complet,110921,48889,44.08,62032,55.92,3727,3.36,6.01,1552,1.4,2.5,56753,51.17,91.49,9,F,POCHON,Marie,NUPES,29635,26.72,52.22,Elu,Ensemble!
+103,26004,26,Drôme,4,4ème circonscription,Complet,99201,50327,50.73,48874,49.27,1517,1.53,3.1,596,0.6,1.22,46761,47.14,95.68,4,F,ANTHOINE,Emmanuelle,Les Républicains,27076,27.29,57.9,Elu,NUPES
+104,27001,27,Eure,1,1ère circonscription,Complet,86792,47035,54.19,39757,45.81,2304,2.65,5.8,761,0.88,1.91,36692,42.28,92.29,2,F,LOIR,Christine,Rassemblement National,18575,21.4,50.62,Elu,Ensemble!
+105,27002,27,Eure,2,2ème circonscription,Complet,79055,40594,51.35,38461,48.65,2492,3.15,6.48,764,0.97,1.99,35205,44.53,91.53,1,F,LEVAVASSEUR,Katiana,Rassemblement National,17990,22.76,51.1,Elu,Ensemble!
+106,27003,27,Eure,3,3ème circonscription,Complet,85740,43175,50.36,42565,49.64,2586,3.02,6.08,829,0.97,1.95,39150,45.66,91.98,9,M,MAUVIEUX,Kévin,Rassemblement National,21161,24.68,54.05,Elu,Ensemble!
+107,27004,27,Eure,4,4ème circonscription,Complet,92593,48468,52.35,44125,47.65,3825,4.13,8.67,1000,1.08,2.27,39300,42.44,89.07,7,M,BRUN,Philippe,NUPES,19824,21.41,50.44,Elu,Rassemblement National
+108,27005,27,Eure,5,5ème circonscription,Complet,89576,47324,52.83,42252,47.17,2764,3.09,6.54,669,0.75,1.58,38819,43.34,91.87,5,M,HOUSSIN,Timothée,Rassemblement National,19654,21.94,50.63,Elu,Ensemble!
+109,28001,28,Eure-et-Loir,1,1ère circonscription,Complet,91232,48865,53.56,42367,46.44,2552,2.8,6.02,1034,1.13,2.44,38781,42.51,91.54,5,M,KASBARIAN,Guillaume,Ensemble!,22530,24.7,58.1,Elu,NUPES
+110,28002,28,Eure-et-Loir,2,2ème circonscription,Complet,75046,44205,58.9,30841,41.1,1516,2.02,4.92,514,0.68,1.67,28811,38.39,93.42,1,M,MARLEIX,Olivier,Les Républicains,17957,23.93,62.33,Elu,Rassemblement National
+111,28003,28,Eure-et-Loir,3,3ème circonscription,Complet,71323,38830,54.44,32493,45.56,2034,2.85,6.26,703,0.99,2.16,29756,41.72,91.58,5,M,LAMIRAULT,Luc,Ensemble!,16055,22.51,53.96,Elu,Rassemblement National
+112,28004,28,Eure-et-Loir,4,4ème circonscription,Complet,67237,35810,53.26,31427,46.74,1539,2.29,4.9,515,0.77,1.64,29373,43.69,93.46,3,M,VIGIER,Philippe,Ensemble!,17674,26.29,60.17,Elu,Rassemblement National
+113,29001,29,Finistère,1,1ère circonscription,Complet,92338,42222,45.73,50116,54.27,1964,2.13,3.92,933,1.01,1.86,47219,51.14,94.22,5,F,LE MEUR,Annaïg,Ensemble!,25447,27.56,53.89,Elu,NUPES
+114,29002,29,Finistère,2,2ème circonscription,Complet,79085,40854,51.66,38231,48.34,2034,2.57,5.32,61,0.08,0.16,36136,45.69,94.52,4,M,LARSONNEUR,Jean-Charles,Divers centre,18127,22.92,50.16,Elu,NUPES
+115,29003,29,Finistère,3,3ème circonscription,Complet,93155,47040,50.5,46115,49.5,2138,2.3,4.64,510,0.55,1.11,43467,46.66,94.26,5,M,LE GAC,Didier,Ensemble!,25169,27.02,57.9,Elu,NUPES
+116,29004,29,Finistère,4,4ème circonscription,Complet,84023,39416,46.91,44607,53.09,1797,2.14,4.03,769,0.92,1.72,42041,50.04,94.25,9,F,LE FEUR,Sandrine,Ensemble!,22872,27.22,54.4,Elu,NUPES
+117,29005,29,Finistère,5,5ème circonscription,Complet,97865,48360,49.42,49505,50.58,1856,1.9,3.75,777,0.79,1.57,46872,47.89,94.68,8,F,MELCHIOR,Graziella,Ensemble!,25585,26.14,54.58,Elu,NUPES
+118,29006,29,Finistère,6,6ème circonscription,Complet,91263,41120,45.06,50143,54.94,2026,2.22,4.04,1025,1.12,2.04,47092,51.6,93.92,4,F,THOMIN,Mélanie,NUPES,23948,26.24,50.85,Elu,Ensemble!
+119,29007,29,Finistère,7,7ème circonscription,Complet,83311,37373,44.86,45938,55.14,2185,2.62,4.76,1139,1.37,2.48,42614,51.15,92.76,1,F,TANGUY,Liliana,Ensemble!,22266,26.73,52.25,Elu,NUPES
+120,29008,29,Finistère,8,8ème circonscription,Complet,91084,43005,47.21,48079,52.79,2417,2.65,5.03,1235,1.36,2.57,44427,48.78,92.4,5,M,BALANANT,Erwan,Ensemble!,23292,25.57,52.43,Elu,NUPES
+121,2A001,2A,Corse-du-Sud,1,1ère circonscription,Complet,52261,27506,52.63,24755,47.37,957,1.83,3.87,590,1.13,2.38,23208,44.41,93.75,7,M,MARCANGELI,Laurent,Ensemble!,12013,22.99,51.76,Elu,Régionalistes
+122,2A002,2A,Corse-du-Sud,2,2ème circonscription,Complet,61834,34461,55.73,27373,44.27,1043,1.69,3.81,732,1.18,2.67,25598,41.4,93.52,4,M,COLOMBANI,Paul-André,Régionalistes,14746,23.85,57.61,Elu,Divers droite
+123,2B001,2B,Haute-Corse,1,1ère circonscription,Complet,61510,37895,61.61,23615,38.39,1142,1.86,4.84,694,1.13,2.94,21779,35.41,92.23,5,M,CASTELLANI,Michel,Régionalistes,13724,22.31,63.01,Elu,Divers centre
+124,2B002,2B,Haute-Corse,2,2ème circonscription,Complet,67924,32834,48.34,35090,51.66,1150,1.69,3.28,542,0.8,1.54,33398,49.17,95.18,1,M,ACQUAVIVA,Jean-Félix,Régionalistes,16777,24.7,50.23,Elu,Divers droite
+125,30001,30,Gard,1,1ère circonscription,Complet,89377,52361,58.58,37016,41.42,2403,2.69,6.49,840,0.94,2.27,33773,37.79,91.24,2,M,GILLET,Yoann,Rassemblement National,17564,19.65,52.01,Elu,Ensemble!
+126,30002,30,Gard,2,2ème circonscription,Complet,95045,51506,54.19,43539,45.81,2787,2.93,6.4,870,0.92,2.0,39882,41.96,91.6,7,M,MEIZONNET,Nicolas,Rassemblement National,22595,23.77,56.65,Elu,Ensemble!
+127,30003,30,Gard,3,3ème circonscription,Complet,95519,49607,51.93,45912,48.07,2816,2.95,6.13,971,1.02,2.11,42125,44.1,91.75,5,F,BORDES,Pascale,Rassemblement National,21619,22.63,51.32,Elu,Ensemble!
+128,30004,30,Gard,4,4ème circonscription,Complet,94343,48554,51.47,45789,48.53,3634,3.85,7.94,1252,1.33,2.73,40903,43.36,89.33,1,M,MEURIN,Pierre,Rassemblement National,22289,23.63,54.49,Elu,NUPES
+129,30005,30,Gard,5,5ème circonscription,Complet,98485,48392,49.14,50093,50.86,4999,5.08,9.98,1701,1.73,3.4,43393,44.06,86.62,4,M,SALA,Michel,NUPES,22999,23.35,53.0,Elu,Rassemblement National
+130,30006,30,Gard,6,6ème circonscription,Complet,84553,48082,56.87,36471,43.13,2775,3.28,7.61,1261,1.49,3.46,32435,38.36,88.93,11,M,BERTA,Philippe,Ensemble!,16921,20.01,52.17,Elu,NUPES
+131,31001,31,Haute-Garonne,1,1ère circonscription,Complet,83951,40710,48.49,43241,51.51,1705,2.03,3.94,701,0.84,1.62,40835,48.64,94.44,9,M,CLOUET,Hadrien,NUPES,22140,26.37,54.22,Elu,Ensemble!
+132,31002,31,Haute-Garonne,2,2ème circonscription,Complet,105339,50683,48.11,54656,51.89,2501,2.37,4.58,1314,1.25,2.4,50841,48.26,93.02,13,F,STAMBACH-TERRENOIR,Anne,NUPES,26895,25.53,52.9,Elu,Ensemble!
+133,31003,31,Haute-Garonne,3,3ème circonscription,Complet,80733,35314,43.74,45419,56.26,1920,2.38,4.23,814,1.01,1.79,42685,52.87,93.98,4,F,VIGNON,Corinne,Ensemble!,23780,29.46,55.71,Elu,NUPES
+134,31004,31,Haute-Garonne,4,4ème circonscription,Complet,68593,34077,49.68,34516,50.32,1143,1.67,3.31,525,0.77,1.52,32848,47.89,95.17,8,M,PIQUEMAL,François,NUPES,19467,28.38,59.26,Elu,Ensemble!
+135,31005,31,Haute-Garonne,5,5ème circonscription,Complet,106938,55925,52.3,51013,47.7,3263,3.05,6.4,1601,1.5,3.14,46149,43.15,90.47,8,M,PORTARRIEU,Jean-François,Ensemble!,23948,22.39,51.89,Elu,NUPES
+136,31006,31,Haute-Garonne,6,6ème circonscription,Complet,115579,55789,48.27,59790,51.73,3104,2.69,5.19,1551,1.34,2.59,55135,47.7,92.21,7,F,IBORRA,Monique,Ensemble!,27569,23.85,50.0,Elu,NUPES
+137,31007,31,Haute-Garonne,7,7ème circonscription,Complet,106500,55044,51.68,51456,48.32,3437,3.23,6.68,1816,1.71,3.53,46203,43.38,89.79,4,M,BEX,Christophe,NUPES,23644,22.2,51.17,Elu,Ensemble!
+138,31008,31,Haute-Garonne,8,8ème circonscription,Complet,86162,41819,48.54,44343,51.46,2829,3.28,6.38,1456,1.69,3.28,40058,46.49,90.34,1,M,AVIRAGNET,Joël,Divers gauche,24191,28.08,60.39,Elu,Rassemblement National
+139,31009,31,Haute-Garonne,9,9ème circonscription,Complet,80654,40853,50.65,39801,49.35,1755,2.18,4.41,899,1.11,2.26,37147,46.06,93.33,4,F,ARRIGHI,Christine,NUPES,21748,26.96,58.55,Elu,Ensemble!
+140,31010,31,Haute-Garonne,10,10ème circonscription,Complet,103430,44787,43.3,58643,56.7,3192,3.09,5.44,1426,1.38,2.43,54025,52.23,92.13,13,F,FAURE,Dominique,Ensemble!,27118,26.22,50.2,Elu,NUPES
+141,32001,32,Gers,1,1ère circonscription,Complet,73809,33442,45.31,40367,54.69,3051,4.13,7.56,1469,1.99,3.64,35847,48.57,88.8,7,M,CAZENEUVE,Jean-René,Ensemble!,18822,25.5,52.51,Elu,NUPES
+142,32002,32,Gers,2,2ème circonscription,Complet,73848,34983,47.37,38865,52.63,2382,3.23,6.13,1228,1.66,3.16,35255,47.74,90.71,14,M,TAUPIAC,David,Divers gauche,22203,30.07,62.98,Elu,Ensemble!
+143,33001,33,Gironde,1,1ère circonscription,Complet,104129,53594,51.47,50535,48.53,1940,1.86,3.84,734,0.7,1.45,47861,45.96,94.71,5,M,CAZENAVE,Thomas,Ensemble!,28292,27.17,59.11,Elu,NUPES
+144,33002,33,Gironde,2,2ème circonscription,Complet,72301,34475,47.68,37826,52.32,1003,1.39,2.65,393,0.54,1.04,36430,50.39,96.31,9,M,THIERRY,Nicolas,NUPES,19433,26.88,53.34,Elu,Ensemble!
+145,33003,33,Gironde,3,3ème circonscription,Complet,89496,46610,52.08,42886,47.92,1613,1.8,3.76,666,0.74,1.55,40607,45.37,94.69,5,M,PRUD'HOMME,Loïc,NUPES,24066,26.89,59.27,Elu,Ensemble!
+146,33004,33,Gironde,4,4ème circonscription,Complet,98473,57003,57.89,41470,42.11,2129,2.16,5.13,1039,1.06,2.51,38302,38.9,92.36,5,M,DAVID,Alain,NUPES,22876,23.23,59.73,Elu,Ensemble!
+147,33005,33,Gironde,5,5ème circonscription,Complet,120999,63204,52.24,57795,47.76,6492,5.37,11.23,2014,1.66,3.48,49289,40.74,85.28,9,M,DE FOURNAS,Grégoire,Rassemblement National,26263,21.71,53.28,Elu,NUPES
+148,33006,33,Gironde,6,6ème circonscription,Complet,108051,52847,48.91,55204,51.09,2307,2.14,4.18,1035,0.96,1.87,51862,48.0,93.95,13,M,POULLIAT,Eric,Ensemble!,26893,24.89,51.85,Elu,NUPES
+149,33007,33,Gironde,7,7ème circonscription,Complet,79776,37521,47.03,42255,52.97,1681,2.11,3.98,801,1.0,1.9,39773,49.86,94.13,7,F,COUILLARD,Bérangère,Ensemble!,20964,26.28,52.71,Elu,NUPES
+150,33008,33,Gironde,8,8ème circonscription,Complet,119823,62431,52.1,57392,47.9,3699,3.09,6.45,1286,1.07,2.24,52407,43.74,91.31,5,F,PANONACLE,Sophie,Ensemble!,31442,26.24,60.0,Elu,Rassemblement National
+151,33009,33,Gironde,9,9ème circonscription,Complet,102191,51503,50.4,50688,49.6,3721,3.64,7.34,1511,1.48,2.98,45456,44.48,89.68,4,F,METTE,Sophie,Ensemble!,22950,22.46,50.49,Elu,NUPES
+152,33010,33,Gironde,10,10ème circonscription,Complet,83290,42467,50.99,40823,49.01,2961,3.56,7.25,1096,1.32,2.68,36766,44.14,90.06,2,M,BOUDIÉ,Florent,Ensemble!,19581,23.51,53.26,Elu,Rassemblement National
+153,33011,33,Gironde,11,11ème circonscription,Complet,98743,51770,52.43,46973,47.57,3102,3.14,6.6,1126,1.14,2.4,42745,43.29,91.0,9,F,DIAZ,Edwige,Rassemblement National,25092,25.41,58.7,Elu,Ensemble!
+154,33012,33,Gironde,12,12ème circonscription,Complet,88134,43020,48.81,45114,51.19,3064,3.48,6.79,1505,1.71,3.34,40545,46.0,89.87,3,M,LAVERGNE,Pascal,Ensemble!,20364,23.11,50.23,Elu,NUPES
+155,34001,34,Hérault,1,1ère circonscription,Complet,90108,49581,55.02,40527,44.98,2731,3.03,6.74,995,1.1,2.46,36801,40.84,90.81,11,F,MIRALLES,Patricia,Ensemble!,19338,21.46,52.55,Elu,NUPES
+156,34002,34,Hérault,2,2ème circonscription,Complet,65431,36984,56.52,28447,43.48,1149,1.76,4.04,443,0.68,1.56,26855,41.04,94.4,2,F,OZIOL,Nathalie,NUPES,17008,25.99,63.33,Elu,Ensemble!
+157,34003,34,Hérault,3,3ème circonscription,Complet,92308,45262,49.03,47046,50.97,2718,2.94,5.78,1192,1.29,2.53,43136,46.73,91.69,6,F,CRISTOL,Laurence,Ensemble!,22907,24.82,53.1,Elu,NUPES
+158,34004,34,Hérault,4,4ème circonscription,Complet,119180,59227,49.7,59953,50.3,6150,5.16,10.26,1895,1.59,3.16,51908,43.55,86.58,10,M,ROME,Sébastien,NUPES,26291,22.06,50.65,Elu,Rassemblement National
+159,34005,34,Hérault,5,5ème circonscription,Complet,98965,49015,49.53,49950,50.47,4654,4.7,9.32,1611,1.63,3.23,43685,44.14,87.46,11,F,GALZY,Stéphanie,Rassemblement National,23695,23.94,54.24,Elu,NUPES
+160,34006,34,Hérault,6,6ème circonscription,Complet,93917,53248,56.7,40669,43.3,2286,2.43,5.62,787,0.84,1.94,37596,40.03,92.44,13,F,MÉNARD,Emmanuelle,Divers droite,26255,27.96,69.83,Elu,NUPES
+161,34007,34,Hérault,7,7ème circonscription,Complet,108885,57027,52.37,51858,47.63,4038,3.71,7.79,1569,1.44,3.03,46251,42.48,89.19,2,M,LOPEZ LIGUORI,Aurélien,Rassemblement National,27378,25.14,59.19,Elu,NUPES
+162,34008,34,Hérault,8,8ème circonscription,Complet,94363,50624,53.65,43739,46.35,3911,4.14,8.94,1320,1.4,3.02,38508,40.81,88.04,7,M,CARRIERE,Sylvain,NUPES,19483,20.65,50.59,Elu,Rassemblement National
+163,34009,34,Hérault,9,9ème circonscription,Complet,89433,49574,55.43,39859,44.57,2659,2.97,6.67,1296,1.45,3.25,35904,40.15,90.08,4,M,VIGNAL,Patrick,Ensemble!,19520,21.83,54.37,Elu,NUPES
+164,35001,35,Ille-et-Vilaine,1,1ère circonscription,Complet,93501,42819,45.8,50682,54.2,1953,2.09,3.85,833,0.89,1.64,47896,51.23,94.5,14,M,MATHIEU,Frédéric,NUPES,25205,26.96,52.62,Elu,Ensemble!
+165,35002,35,Ille-et-Vilaine,2,2ème circonscription,Complet,98271,41553,42.28,56718,57.72,1627,1.66,2.87,736,0.75,1.3,54355,55.31,95.83,2,F,MAILLART-MÉHAIGNERIE,Laurence,Ensemble!,28165,28.66,51.82,Elu,NUPES
+166,35003,35,Ille-et-Vilaine,3,3ème circonscription,Complet,91858,42782,46.57,49076,53.43,1905,2.07,3.88,1012,1.1,2.06,46159,50.25,94.06,10,F,ROUAUX,Claudia,NUPES,23784,25.89,51.53,Elu,Ensemble!
+167,35004,35,Ille-et-Vilaine,4,4ème circonscription,Complet,95818,47030,49.08,48788,50.92,2261,2.36,4.63,1143,1.19,2.34,45384,47.36,93.02,1,F,HIGNET,Mathilde,NUPES,22856,23.85,50.36,Elu,Ensemble!
+168,35005,35,Ille-et-Vilaine,5,5ème circonscription,Complet,109735,55524,50.6,54211,49.4,2415,2.2,4.45,1183,1.08,2.18,50613,46.12,93.36,6,F,LE NABOUR-CLOAREC,Christine,Ensemble!,29690,27.06,58.66,Elu,NUPES
+169,35006,35,Ille-et-Vilaine,6,6ème circonscription,Complet,90292,44720,49.53,45572,50.47,1822,2.02,4.0,906,1.0,1.99,42844,47.45,94.01,3,M,BENOIT,Thierry,Ensemble!,26431,29.27,61.69,Elu,NUPES
+170,35007,35,Ille-et-Vilaine,7,7ème circonscription,Complet,105049,54552,51.93,50497,48.07,3748,3.57,7.42,1364,1.3,2.7,45385,43.2,89.88,3,M,BOURGEAUX,Jean-Luc,Les Républicains,23704,22.56,52.23,Elu,Ensemble!
+171,35008,35,Ille-et-Vilaine,8,8ème circonscription,Complet,90997,40157,44.13,50840,55.87,1492,1.64,2.93,598,0.66,1.18,48750,53.57,95.89,2,M,BOULOUX,Mickaël,NUPES,28261,31.06,57.97,Elu,Ensemble!
+172,36001,36,Indre,1,1ère circonscription,Complet,77781,41666,53.57,36115,46.43,2413,3.1,6.68,1286,1.65,3.56,32416,41.68,89.76,5,M,JOLIVET,François,Ensemble!,18158,23.35,56.02,Elu,NUPES
+173,36002,36,Indre,2,2ème circonscription,Complet,88363,45159,51.11,43204,48.89,3191,3.61,7.39,1333,1.51,3.09,38680,43.77,89.53,9,M,FORISSIER,Nicolas,Les Républicains,22507,25.47,58.19,Elu,Rassemblement National
+174,37001,37,Indre-et-Loire,1,1ère circonscription,Complet,71161,36800,51.71,34361,48.29,1180,1.66,3.43,549,0.77,1.6,32632,45.86,94.97,7,M,FOURNIER,Charles,NUPES,17461,24.54,53.51,Elu,Ensemble!
+175,37002,37,Indre-et-Loire,2,2ème circonscription,Complet,92250,46962,50.91,45288,49.09,2717,2.95,6.0,1150,1.25,2.54,41421,44.9,91.46,1,M,LABARONNE,Daniel,Ensemble!,22663,24.57,54.71,Elu,NUPES
+176,37003,37,Indre-et-Loire,3,3ème circonscription,Complet,99402,50106,50.41,49296,49.59,2900,2.92,5.88,1277,1.28,2.59,45119,45.39,91.53,8,M,ALFANDARI,Henri,Ensemble!,25792,25.95,57.16,Elu,NUPES
+177,37004,37,Indre-et-Loire,4,4ème circonscription,Complet,92318,47013,50.93,45305,49.07,2337,2.53,5.16,1031,1.12,2.28,41937,45.43,92.57,9,F,COLBOC,Fabienne,Ensemble!,21185,22.95,50.52,Elu,NUPES
+178,37005,37,Indre-et-Loire,5,5ème circonscription,Complet,87118,45613,52.36,41505,47.64,3248,3.73,7.83,916,1.05,2.21,37341,42.86,89.97,6,F,THILLAYE,Sabine,Ensemble!,22055,25.32,59.06,Elu,Rassemblement National
+179,38001,38,Isère,1,1ère circonscription,Complet,85737,37876,44.18,47861,55.82,1461,1.7,3.05,461,0.54,0.96,45939,53.58,95.98,2,M,VÉRAN,Olivier,Ensemble!,25512,29.76,55.53,Elu,NUPES
+180,38002,38,Isère,2,2ème circonscription,Complet,78601,43915,55.87,34686,44.13,1544,1.96,4.45,546,0.69,1.57,32596,41.47,93.97,1,F,CHATELAIN,Cyrielle,NUPES,16992,21.62,52.13,Elu,Ensemble!
+181,38003,38,Isère,3,3ème circonscription,Complet,60402,32384,53.61,28018,46.39,986,1.63,3.52,368,0.61,1.31,26664,44.14,95.17,2,F,MARTIN,Élisa,NUPES,15326,25.37,57.48,Elu,Ensemble!
+182,38004,38,Isère,4,4ème circonscription,Complet,91894,47868,52.09,44026,47.91,1945,2.12,4.42,715,0.78,1.62,41366,45.01,93.96,4,F,BATTISTEL,Marie-Noëlle,NUPES,24016,26.13,58.06,Elu,Ensemble!
+183,38005,38,Isère,5,5ème circonscription,Complet,106050,52951,49.93,53099,50.07,2592,2.44,4.88,917,0.86,1.73,49590,46.76,93.39,4,M,IORDANOFF,Jérémie,NUPES,25010,23.58,50.43,Elu,Ensemble!
+184,38006,38,Isère,6,6ème circonscription,Complet,89161,49642,55.68,39519,44.32,2259,2.53,5.72,599,0.67,1.52,36661,41.12,92.77,4,M,JOLLY,Alexis,Rassemblement National,18667,20.94,50.92,Elu,Ensemble!
+185,38007,38,Isère,7,7ème circonscription,Complet,96144,52393,54.49,43751,45.51,3121,3.25,7.13,897,0.93,2.05,39733,41.33,90.82,1,M,NEUDER,Yannick,Les Républicains,23678,24.63,59.59,Elu,Rassemblement National
+186,38008,38,Isère,8,8ème circonscription,Complet,82512,45219,54.8,37293,45.2,2566,3.11,6.88,694,0.84,1.86,34033,41.25,91.26,8,F,ABADIE,Caroline,Ensemble!,18251,22.12,53.63,Elu,Rassemblement National
+187,38009,38,Isère,9,9ème circonscription,Complet,100653,51410,51.08,49243,48.92,2938,2.92,5.97,905,0.9,1.84,45400,45.11,92.2,2,F,JACQUIER-LAFORGE,Elodie,Ensemble!,24427,24.27,53.8,Elu,NUPES
+188,38010,38,Isère,10,10ème circonscription,Complet,98834,56583,57.25,42251,42.75,2882,2.92,6.82,742,0.75,1.76,38627,39.08,91.42,8,F,MEYNIER-MILLEFERT,Marjolaine,Ensemble!,20282,20.52,52.51,Elu,Rassemblement National
+189,39001,39,Jura,1,1ère circonscription,Complet,65032,32166,49.46,32866,50.54,1964,3.02,5.98,961,1.48,2.92,29941,46.04,91.1,2,F,BRULEBOIS,Danielle,Ensemble!,16833,25.88,56.22,Elu,NUPES
+190,39002,39,Jura,2,2ème circonscription,Complet,55805,29526,52.91,26279,47.09,1034,1.85,3.93,479,0.86,1.82,24766,44.38,94.24,1,F,DALLOZ,Marie-Christine,Les Républicains,15380,27.56,62.1,Elu,NUPES
+191,39003,39,Jura,3,3ème circonscription,Complet,70385,34905,49.59,35480,50.41,1512,2.15,4.26,788,1.12,2.22,33180,47.14,93.52,6,F,GRUET,Justine,Les Républicains,19397,27.56,58.46,Elu,NUPES
+192,40001,40,Landes,1,1ère circonscription,Complet,108526,54215,49.96,54311,50.04,4130,3.81,7.6,1586,1.46,2.92,48595,44.78,89.48,5,F,DARRIEUSSECQ,Geneviève,Ensemble!,27123,24.99,55.81,Elu,NUPES
+193,40002,40,Landes,2,2ème circonscription,Complet,123048,59675,48.5,63373,51.5,3409,2.77,5.38,1616,1.31,2.55,58348,47.42,92.07,2,M,CAUSSE,Lionel,Ensemble!,30305,24.63,51.94,Elu,NUPES
+194,40003,40,Landes,3,3ème circonscription,Complet,99511,46543,46.77,52968,53.23,2951,2.97,5.57,1630,1.64,3.08,48387,48.62,91.35,1,M,VALLAUD,Boris,NUPES,28998,29.14,59.93,Elu,Ensemble!
+195,41001,41,Loir-et-Cher,1,1ère circonscription,Complet,82792,43086,52.04,39706,47.96,2588,3.13,6.52,1263,1.53,3.18,35855,43.31,90.3,8,M,FESNEAU,Marc,Ensemble!,20249,24.46,56.47,Elu,NUPES
+196,41002,41,Loir-et-Cher,2,2ème circonscription,Complet,80392,41586,51.73,38806,48.27,2482,3.09,6.4,870,1.08,2.24,35454,44.1,91.36,9,M,CHUDEAU,Roger,Rassemblement National,18107,22.52,51.07,Elu,Ensemble!
+197,41003,41,Loir-et-Cher,3,3ème circonscription,Complet,81928,40045,48.88,41883,51.12,2691,3.28,6.43,871,1.06,2.08,38321,46.77,91.5,4,M,MARION,Christophe,Ensemble!,21158,25.83,55.21,Elu,Rassemblement National
+198,42001,42,Loire,1,1ère circonscription,Complet,64616,37113,57.44,27503,42.56,1404,2.17,5.1,702,1.09,2.55,25397,39.3,92.34,1,M,BATAILLON,Quentin,Ensemble!,13231,20.48,52.1,Elu,NUPES
+199,42002,42,Loire,2,2ème circonscription,Complet,50936,28835,56.61,22101,43.39,983,1.93,4.45,405,0.8,1.83,20713,40.66,93.72,10,F,TAURINYA,Andrée,NUPES,10488,20.59,50.63,Elu,Ensemble!
+200,42003,42,Loire,3,3ème circonscription,Complet,83524,47776,57.2,35748,42.8,2420,2.9,6.77,515,0.62,1.44,32813,39.29,91.79,9,M,MANDON,Emmanuel,Ensemble!,18807,22.52,57.32,Elu,NUPES
+201,42004,42,Loire,4,4ème circonscription,Complet,103989,56089,53.94,47900,46.06,2007,1.93,4.19,694,0.67,1.45,45199,43.47,94.36,5,M,CINIERI,Dino,Les Républicains,27847,26.78,61.61,Elu,NUPES
+202,42005,42,Loire,5,5ème circonscription,Complet,102311,57266,55.97,45045,44.03,3842,3.76,8.53,1383,1.35,3.07,39820,38.92,88.4,5,M,VERMOREL-MARQUES,Antoine,Les Républicains,24575,24.02,61.72,Elu,Ensemble!
+203,42006,42,Loire,6,6ème circonscription,Complet,111184,61434,55.25,49750,44.75,3696,3.32,7.43,1113,1.0,2.24,44941,40.42,90.33,5,M,TAITE,Jean-Pierre,Les Républicains,25050,22.53,55.74,Elu,Ensemble!
+204,43001,43,Haute-Loire,1,1ère circonscription,Complet,101598,52842,52.01,48756,47.99,1737,1.71,3.56,768,0.76,1.58,46251,45.52,94.86,3,F,VALENTIN,Isabelle,Les Républicains,32478,31.97,70.22,Elu,NUPES
+205,43002,43,Haute-Loire,2,2ème circonscription,Complet,79477,39753,50.02,39724,49.98,1488,1.87,3.75,753,0.95,1.9,37483,47.16,94.36,7,M,VIGIER,Jean-Pierre,Les Républicains,25621,32.24,68.35,Elu,NUPES
+206,44001,44,Loire-Atlantique,1,1ère circonscription,Complet,77128,35737,46.33,41391,53.67,1913,2.48,4.62,372,0.48,0.9,39106,50.7,94.48,5,M,BELHAMITI,Mounir,Ensemble!,20367,26.41,52.08,Elu,NUPES
+207,44002,44,Loire-Atlantique,2,2ème circonscription,Complet,91423,41086,44.94,50337,55.06,1664,1.82,3.31,551,0.6,1.09,48122,52.64,95.6,4,M,KERBRAT,Andy,NUPES,26851,29.37,55.8,Elu,Ensemble!
+208,44003,44,Loire-Atlantique,3,3ème circonscription,Complet,96753,49460,51.12,47293,48.88,2169,2.24,4.59,535,0.55,1.13,44589,46.09,94.28,5,F,AMIOT,Ségolène,NUPES,24837,25.67,55.7,Elu,Ensemble!
+209,44004,44,Loire-Atlantique,4,4ème circonscription,Complet,93281,45376,48.64,47905,51.36,1652,1.77,3.45,737,0.79,1.54,45516,48.79,95.01,6,F,LAERNOES,Julie,NUPES,26411,28.31,58.03,Elu,Ensemble!
+210,44005,44,Loire-Atlantique,5,5ème circonscription,Complet,125919,59950,47.61,65969,52.39,2766,2.2,4.19,1021,0.81,1.55,62182,49.38,94.26,5,F,EL HAIRY,Sarah,Ensemble!,33834,26.87,54.41,Elu,NUPES
+211,44006,44,Loire-Atlantique,6,6ème circonscription,Complet,115404,60449,52.38,54955,47.62,2803,2.43,5.1,1339,1.16,2.44,50813,44.03,92.46,11,M,RAUX,Jean-Claude,NUPES,26852,23.27,52.84,Elu,Ensemble!
+212,44007,44,Loire-Atlantique,7,7ème circonscription,Complet,117322,58119,49.54,59203,50.46,3566,3.04,6.02,1182,1.01,2.0,54455,46.41,91.98,11,F,JOSSO,Sandrine,Ensemble!,31074,26.49,57.06,Elu,NUPES
+213,44008,44,Loire-Atlantique,8,8ème circonscription,Complet,90161,47886,53.11,42275,46.89,1809,2.01,4.28,807,0.9,1.91,39659,43.99,93.81,8,M,TAVEL,Matthias,NUPES,21596,23.95,54.45,Elu,Ensemble!
+214,44009,44,Loire-Atlantique,9,9ème circonscription,Complet,129930,65589,50.48,64341,49.52,3311,2.55,5.15,1497,1.15,2.33,59533,45.82,92.53,3,M,HAURY,Yannick,Ensemble!,31625,24.34,53.12,Elu,NUPES
+215,44010,44,Loire-Atlantique,10,10ème circonscription,Complet,123775,61700,49.85,62075,50.15,2665,2.15,4.29,1284,1.04,2.07,58126,46.96,93.64,8,F,ERRANTE,Sophie,Ensemble!,32852,26.54,56.52,Elu,NUPES
+216,45001,45,Loiret,1,1ère circonscription,Complet,77594,39754,51.23,37840,48.77,1868,2.41,4.94,729,0.94,1.93,35243,45.42,93.14,2,F,RIST,Stéphanie,Ensemble!,20163,25.99,57.21,Elu,NUPES
+217,45002,45,Loiret,2,2ème circonscription,Complet,87297,46868,53.69,40429,46.31,2496,2.86,6.17,1118,1.28,2.77,36815,42.17,91.06,9,F,JANVIER,Caroline,Ensemble!,20535,23.52,55.78,Elu,NUPES
+218,45003,45,Loiret,3,3ème circonscription,Complet,70881,35825,50.54,35056,49.46,2163,3.05,6.17,631,0.89,1.8,32262,45.52,92.03,8,F,PARIS,Mathilde,Rassemblement National,16846,23.77,52.22,Elu,Ensemble!
+219,45004,45,Loiret,4,4ème circonscription,Complet,74835,40370,53.95,34465,46.05,3214,4.29,9.33,1127,1.51,3.27,30124,40.25,87.4,6,M,MÉNAGÉ,Thomas,Rassemblement National,19087,25.51,63.36,Elu,NUPES
+220,45005,45,Loiret,5,5ème circonscription,Complet,73681,39363,53.42,34318,46.58,2155,2.92,6.28,680,0.92,1.98,31483,42.73,91.74,6,M,BROSSE,Anthony,Ensemble!,15747,21.37,50.02,Elu,Rassemblement National
+221,45006,45,Loiret,6,6ème circonscription,Complet,75188,39183,52.11,36005,47.89,2202,2.93,6.12,865,1.15,2.4,32938,43.81,91.48,5,M,RAMOS,Richard,Ensemble!,18865,25.09,57.27,Elu,NUPES
+222,46001,46,Lot,1,1ère circonscription,Complet,72859,31011,42.56,41848,57.44,1448,1.99,3.46,769,1.06,1.84,39631,54.39,94.7,10,M,PRADIÉ,Aurélien,Les Républicains,25615,35.16,64.63,Elu,NUPES
+223,46002,46,Lot,2,2ème circonscription,Complet,66674,27160,40.74,39514,59.26,1312,1.97,3.32,874,1.31,2.21,37328,55.99,94.47,5,F,TIEGNA,Huguette,Ensemble!,12744,19.11,34.14,Elu,NUPES et Divers gauche
+224,47001,47,Lot-et-Garonne,1,1ère circonscription,Complet,88689,44602,50.29,44087,49.71,3360,3.79,7.62,1236,1.39,2.8,39491,44.53,89.58,1,M,LAUZZANA,Michel,Ensemble!,20328,22.92,51.48,Elu,Rassemblement National
+225,47002,47,Lot-et-Garonne,2,2ème circonscription,Complet,77451,34422,44.44,43029,55.56,715,0.92,1.66,434,0.56,1.01,41880,54.07,97.33,4,F,LAPORTE,Hélène,Rassemblement National,16516,21.32,39.44,Elu,NUPES et Ensemble!
+226,47003,47,Lot-et-Garonne,3,3ème circonscription,Complet,75987,36885,48.54,39102,51.46,4388,5.77,11.22,1806,2.38,4.62,32908,43.31,84.16,4,F,COUSIN,Annick,Rassemblement National,18747,24.67,56.97,Elu,NUPES
+227,48001,48,Lozère,1,1ère circonscription,Complet,59909,24428,40.78,35481,59.22,2184,3.65,6.16,1322,2.21,3.73,31975,53.37,90.12,6,M,MOREL A L'HUISSIER,Pierre,Union des démocrates et indépendants,17355,28.97,54.28,Elu,NUPES
+228,49001,49,Maine-et-Loire,1,1ère circonscription,Complet,88017,44445,50.5,43572,49.5,1946,2.21,4.47,695,0.79,1.6,40931,46.5,93.94,8,M,GERNIGON,François,Ensemble!,22724,25.82,55.52,Elu,NUPES
+229,49002,49,Maine-et-Loire,2,2ème circonscription,Complet,94035,47123,50.11,46912,49.89,2000,2.13,4.26,857,0.91,1.83,44055,46.85,93.91,7,F,DUPONT,Stella,Ensemble!,25005,26.59,56.76,Elu,NUPES
+230,49003,49,Maine-et-Loire,3,3ème circonscription,Complet,72583,38912,53.61,33671,46.39,1702,2.34,5.05,607,0.84,1.8,31362,43.21,93.14,7,F,BLIN,Anne-Laure,Les Républicains,19020,26.2,60.65,Elu,NUPES
+231,49004,49,Maine-et-Loire,4,4ème circonscription,Complet,76249,40289,52.84,35960,47.16,2087,2.74,5.8,867,1.14,2.41,33006,43.29,91.79,1,F,SAINT-PAUL,Laëtitia,Ensemble!,19913,26.12,60.33,Elu,NUPES
+232,49005,49,Maine-et-Loire,5,5ème circonscription,Complet,79446,45011,56.66,34435,43.34,1701,2.14,4.94,814,1.02,2.36,31920,40.18,92.7,4,M,MASSEGLIA,Denis,Ensemble!,19395,24.41,60.76,Elu,NUPES
+233,49006,49,Maine-et-Loire,6,6ème circonscription,Complet,98400,52352,53.2,46048,46.8,2106,2.14,4.57,1208,1.23,2.62,42734,43.43,92.8,4,F,DUBRE CHIRAT,Nicole,Ensemble!,24615,25.02,57.6,Elu,NUPES
+234,49007,49,Maine-et-Loire,7,7ème circonscription,Complet,82877,42941,51.81,39936,48.19,1708,2.06,4.28,671,0.81,1.68,37557,45.32,94.04,3,M,BOLO,Philippe,Ensemble!,20865,25.18,55.56,Elu,NUPES
+235,50001,50,Manche,1,1ère circonscription,Complet,87541,46074,52.63,41467,47.37,1427,1.63,3.44,543,0.62,1.31,39497,45.12,95.25,8,M,GOSSELIN,Philippe,Les Républicains,27166,31.03,68.78,Elu,NUPES
+236,50002,50,Manche,2,2ème circonscription,Complet,96983,49401,50.94,47582,49.06,2573,2.65,5.41,1128,1.16,2.37,43881,45.25,92.22,4,M,SORRE,Bertrand,Ensemble!,28279,29.16,64.44,Elu,NUPES
+237,50003,50,Manche,3,3ème circonscription,Complet,110859,56646,51.1,54213,48.9,3337,3.01,6.16,1296,1.17,2.39,49580,44.72,91.45,1,M,TRAVERT,Stéphane,Ensemble!,27829,25.1,56.13,Elu,NUPES
+238,50004,50,Manche,4,4ème circonscription,Complet,89416,46921,52.47,42495,47.53,2040,2.28,4.8,769,0.86,1.81,39686,44.38,93.39,5,F,PIC,Anna,NUPES,20482,22.91,51.61,Elu,Ensemble!
+239,51001,51,Marne,1,1ère circonscription,Complet,74471,43568,58.5,30903,41.5,1719,2.31,5.56,750,1.01,2.43,28434,38.18,92.01,3,M,ALBERTINI,Xavier,Ensemble!,15898,21.35,55.91,Elu,NUPES
+240,51002,51,Marne,2,2ème circonscription,Complet,74662,42068,56.34,32594,43.66,4710,6.31,14.45,1150,1.54,3.53,26734,35.81,82.02,4,F,FRIGOUT,Anne-Sophie,Rassemblement National,14655,19.63,54.82,Elu,NUPES
+241,51003,51,Marne,3,3ème circonscription,Complet,80056,44654,55.78,35402,44.22,2143,2.68,6.05,526,0.66,1.49,32733,40.89,92.46,9,M,GIRARDIN,Eric,Ensemble!,16836,21.03,51.43,Elu,Rassemblement National
+242,51004,51,Marne,4,4ème circonscription,Complet,77098,43398,56.29,33700,43.71,1848,2.4,5.48,596,0.77,1.77,31256,40.54,92.75,6,F,MAGNIER,Lise,Ensemble!,17294,22.43,55.33,Elu,Rassemblement National
+243,51005,51,Marne,5,5ème circonscription,Complet,75997,40776,53.65,35221,46.35,1042,1.37,2.96,348,0.46,0.99,33831,44.52,96.05,5,M,DE COURSON,Charles,Divers droite,21325,28.06,63.03,Elu,Rassemblement National
+244,52001,52,Haute-Marne,1,1ère circonscription,Complet,69998,35269,50.39,34729,49.61,2193,3.13,6.31,924,1.32,2.66,31612,45.16,91.02,10,M,BENTZ,Christophe,Rassemblement National,16201,23.14,51.25,Elu,Ensemble!
+245,52002,52,Haute-Marne,2,2ème circonscription,Complet,59447,31444,52.89,28003,47.11,806,1.36,2.88,357,0.6,1.27,26840,45.15,95.85,6,F,ROBERT-DEHAULT,Laurence,Rassemblement National,13877,23.34,51.7,Elu,Les Républicains
+246,53001,53,Mayenne,1,1ère circonscription,Complet,73690,39704,53.88,33986,46.12,1359,1.84,4.0,710,0.96,2.09,31917,43.31,93.91,2,M,GAROT,Guillaume,NUPES,20178,27.38,63.22,Elu,Ensemble!
+247,53002,53,Mayenne,2,2ème circonscription,Complet,79090,42589,53.85,36501,46.15,1865,2.36,5.11,841,1.06,2.3,33795,42.73,92.59,7,F,BANNIER,Géraldine,Ensemble!,19812,25.05,58.62,Elu,NUPES
+248,53003,53,Mayenne,3,3ème circonscription,Complet,72427,37734,52.1,34693,47.9,758,1.05,2.18,349,0.48,1.01,33586,46.37,96.81,6,M,FAVENNEC,Yannick,Ensemble!,19187,26.49,57.13,Elu,Elu au premier tour
+249,54001,54,Meurthe-et-Moselle,1,1ère circonscription,Complet,82448,43425,52.67,39023,47.33,1850,2.24,4.74,636,0.77,1.63,36537,44.32,93.63,2,F,GRANDJEAN,Carole,Ensemble!,19520,23.68,53.43,Elu,NUPES
+250,54002,54,Meurthe-et-Moselle,2,2ème circonscription,Complet,67503,34502,51.11,33001,48.89,1314,1.95,3.98,474,0.7,1.44,31213,46.24,94.58,3,M,LACRESSE,Emmanuel,Ensemble!,15689,23.24,50.26,Elu,NUPES
+251,54003,54,Meurthe-et-Moselle,3,3ème circonscription,Complet,80751,51770,64.11,28981,35.89,1569,1.94,5.41,675,0.84,2.33,26737,33.11,92.26,6,F,ETIENNE,Martine,NUPES,13886,17.2,51.94,Elu,Ensemble!
+252,54004,54,Meurthe-et-Moselle,4,4ème circonscription,Complet,97544,54721,56.1,42823,43.9,2005,2.06,4.68,691,0.71,1.61,40127,41.14,93.7,7,M,BAZIN,Thibault,Les Républicains,24952,25.58,62.18,Elu,Rassemblement National
+253,54005,54,Meurthe-et-Moselle,5,5ème circonscription,Complet,78482,42325,53.93,36157,46.07,1239,1.58,3.43,409,0.52,1.13,34509,43.97,95.44,6,M,POTIER,Dominique,Divers gauche,21781,27.75,63.12,Elu,Rassemblement National
+254,54006,54,Meurthe-et-Moselle,6,6ème circonscription,Complet,87300,50972,58.39,36328,41.61,3363,3.85,9.26,849,0.97,2.34,32116,36.79,88.41,9,F,FIAT,Caroline,NUPES,16132,18.48,50.23,Elu,Rassemblement National
+255,55001,55,Meuse,1,1ère circonscription,Complet,75640,39269,51.92,36371,48.08,1480,1.96,4.07,547,0.72,1.5,34344,45.4,94.43,1,M,PANCHER,Bertrand,Divers droite,19027,25.15,55.4,Elu,Rassemblement National
+256,55002,55,Meuse,2,2ème circonscription,Complet,59519,32707,54.95,26812,45.05,1480,2.49,5.52,529,0.89,1.97,24803,41.67,92.51,5,F,GOULET,Florence,Rassemblement National,13269,22.29,53.5,Elu,Ensemble!
+257,56001,56,Morbihan,1,1ère circonscription,Complet,114857,52995,46.14,61862,53.86,2780,2.42,4.49,1052,0.92,1.7,58030,50.52,93.81,1,F,LE HÉNANFF,Anne,Ensemble!,34382,29.93,59.25,Elu,NUPES
+258,56002,56,Morbihan,2,2ème circonscription,Complet,112403,53021,47.17,59382,52.83,3218,2.86,5.42,1508,1.34,2.54,54656,48.63,92.04,12,M,PAHUN,Jimmy,Ensemble!,32026,28.49,58.6,Elu,NUPES
+259,56003,56,Morbihan,3,3ème circonscription,Complet,96635,49456,51.18,47179,48.82,2828,2.93,5.99,1480,1.53,3.14,42871,44.36,90.87,12,F,LE PEIH,Nicole,Ensemble!,24283,25.13,56.64,Elu,NUPES
+260,56004,56,Morbihan,4,4ème circonscription,Complet,111738,57742,51.68,53996,48.32,1927,1.72,3.57,760,0.68,1.41,51309,45.92,95.02,4,M,MOLAC,Paul,Régionalistes,37678,33.72,73.43,Elu,Ensemble!
+261,56005,56,Morbihan,5,5ème circonscription,Complet,81839,40851,49.92,40988,50.08,2044,2.5,4.99,644,0.79,1.57,38300,46.8,93.44,7,F,MÉTAYER,Lysiane,Ensemble!,19666,24.03,51.35,Elu,NUPES
+262,56006,56,Morbihan,6,6ème circonscription,Complet,93735,46067,49.15,47668,50.85,2610,2.78,5.48,1408,1.5,2.95,43650,46.57,91.57,11,M,JACQUES,Jean-Michel,Ensemble!,23925,25.52,54.81,Elu,NUPES
+263,57001,57,Moselle,1,1ère circonscription,Complet,93046,57228,61.51,35818,38.49,2459,2.64,6.87,643,0.69,1.8,32716,35.16,91.34,8,M,BELHADDAD,Belkhir,Ensemble!,17532,18.84,53.59,Elu,Rassemblement National
+264,57002,57,Moselle,2,2ème circonscription,Complet,76241,43457,57.0,32784,43.0,2349,3.08,7.17,719,0.94,2.19,29716,38.98,90.64,10,M,MENDES,Ludovic,Ensemble!,16764,21.99,56.41,Elu,NUPES
+265,57003,57,Moselle,3,3ème circonscription,Complet,75882,43502,57.33,32380,42.67,4310,5.68,13.31,843,1.11,2.6,27227,35.88,84.09,5,F,LEDUC,Charlotte,NUPES,14012,18.47,51.46,Elu,Rassemblement National
+266,57004,57,Moselle,4,4ème circonscription,Complet,80993,46555,57.48,34438,42.52,1407,1.74,4.09,338,0.42,0.98,32693,40.37,94.93,7,M,DI FILIPPO,Fabien,Les Républicains,22655,27.97,69.3,Elu,Rassemblement National
+267,57005,57,Moselle,5,5ème circonscription,Complet,72438,43251,59.71,29187,40.29,1059,1.46,3.63,367,0.51,1.26,27761,38.32,95.11,8,M,SEITLINGER,Vincent,Les Républicains,16413,22.66,59.12,Elu,Rassemblement National
+268,57006,57,Moselle,6,6ème circonscription,Complet,66904,43824,65.5,23080,34.5,1128,1.69,4.89,237,0.35,1.03,21715,32.46,94.09,7,M,PFEFFER,Kévin,Rassemblement National,12368,18.49,56.96,Elu,Ensemble!
+269,57007,57,Moselle,7,7ème circonscription,Complet,89499,54120,60.47,35379,39.53,1683,1.88,4.76,443,0.49,1.25,33253,37.15,93.99,7,M,LOUBET,Alexandre,Rassemblement National,18424,20.59,55.41,Elu,Ensemble!
+270,57008,57,Moselle,8,8ème circonscription,Complet,91209,59273,64.99,31936,35.01,2370,2.6,7.42,620,0.68,1.94,28946,31.74,90.64,5,M,JACOBELLI,Laurent,Rassemblement National,15176,16.64,52.43,Elu,NUPES
+271,57009,57,Moselle,9,9ème circonscription,Complet,101706,62137,61.09,39569,38.91,2416,2.38,6.11,719,0.71,1.82,36434,35.82,92.08,8,F,RAUCH,Isabelle,Ensemble!,20048,19.71,55.03,Elu,NUPES
+272,58001,58,Nièvre,1,1ère circonscription,Complet,74670,40922,54.8,33748,45.2,2633,3.53,7.8,703,0.94,2.08,30412,40.73,90.11,9,F,GOULET,Perrine,Ensemble!,16554,22.17,54.43,Elu,Rassemblement National
+273,58002,58,Nièvre,2,2ème circonscription,Complet,79762,35828,44.92,43934,55.08,878,1.1,2.0,480,0.6,1.09,42576,53.38,96.91,6,M,PERROT,Patrice,Ensemble!,15577,19.53,36.59,Elu,NUPES
+274,59001,59,Nord,1,1ère circonscription,Complet,64243,36057,56.13,28186,43.87,1037,1.61,3.68,437,0.68,1.55,26712,41.58,94.77,11,M,QUATENNENS,Adrien,NUPES,17428,27.13,65.24,Elu,Ensemble!
+275,59002,59,Nord,2,2ème circonscription,Complet,86855,47223,54.37,39632,45.63,1424,1.64,3.59,725,0.83,1.83,37483,43.16,94.58,10,M,BERNALICIS,Ugo,NUPES,21740,25.03,58.0,Elu,Ensemble!
+276,59003,59,Nord,3,3ème circonscription,Complet,92345,54707,59.24,37638,40.76,1429,1.55,3.8,524,0.57,1.39,35685,38.64,94.81,3,M,SAINT-HUILE,Benjamin,Divers gauche,18448,19.98,51.7,Elu,Rassemblement National
+277,59004,59,Nord,4,4ème circonscription,Complet,101687,53424,52.54,48263,47.46,1966,1.93,4.07,898,0.88,1.86,45399,44.65,94.07,12,F,LISO,Brigitte,Ensemble!,25447,25.02,56.05,Elu,NUPES
+278,59005,59,Nord,5,5ème circonscription,Complet,101589,53573,52.74,48016,47.26,6052,5.96,12.6,1570,1.55,3.27,40394,39.76,84.13,1,M,CATTEAU,Victor,Rassemblement National,20658,20.33,51.14,Elu,NUPES
+279,59006,59,Nord,6,6ème circonscription,Complet,93715,46356,49.46,47359,50.54,2679,2.86,5.66,1256,1.34,2.65,43424,46.34,91.69,10,F,PARMENTIER-LECOCQ,Charlotte,Ensemble!,27387,29.22,63.07,Elu,NUPES
+280,59007,59,Nord,7,7ème circonscription,Complet,73619,41554,56.44,32065,43.56,1521,2.07,4.74,620,0.84,1.93,29924,40.65,93.32,8,F,GÉRARD,Félicie,Ensemble!,16600,22.55,55.47,Elu,NUPES
+281,59008,59,Nord,8,8ème circonscription,Complet,68616,46348,67.55,22268,32.45,899,1.31,4.04,372,0.54,1.67,20997,30.6,94.29,3,M,GUIRAUD,David,NUPES,12585,18.34,59.94,Elu,Ensemble!
+282,59009,59,Nord,9,9ème circonscription,Complet,92360,49343,53.42,43017,46.58,1733,1.88,4.03,692,0.75,1.61,40592,43.95,94.36,9,F,SPILLEBOUT,Violette,Ensemble!,23990,25.97,59.1,Elu,NUPES
+283,59010,59,Nord,10,10ème circonscription,Complet,82250,51965,63.18,30285,36.82,1476,1.79,4.87,659,0.8,2.18,28150,34.22,92.95,4,M,DARMANIN,Gérald,Ensemble!,16193,19.69,57.52,Elu,NUPES
+284,59011,59,Nord,11,11ème circonscription,Complet,94445,52275,55.35,42170,44.65,1826,1.93,4.33,991,1.05,2.35,39353,41.67,93.32,10,M,VICOT,Roger,NUPES,22143,23.45,56.27,Elu,Ensemble!
+285,59012,59,Nord,12,12ème circonscription,Complet,93111,51849,55.69,41262,44.31,1861,2.0,4.51,751,0.81,1.82,38650,41.51,93.67,4,M,TAVERNE,Michaël,Rassemblement National,20415,21.93,52.82,Elu,Ensemble!
+286,59013,59,Nord,13,13ème circonscription,Complet,87014,53037,60.95,33977,39.05,1822,2.09,5.36,602,0.69,1.77,31553,36.26,92.87,8,F,DECODTS,Christine,Ensemble!,16524,18.99,52.37,Elu,Rassemblement National
+287,59014,59,Nord,14,14ème circonscription,Complet,99422,53339,53.65,46083,46.35,2134,2.15,4.63,878,0.88,1.91,43071,43.32,93.46,7,M,CHRISTOPHE,Paul,Ensemble!,22916,23.05,53.21,Elu,Rassemblement National
+288,59015,59,Nord,15,15ème circonscription,Complet,97816,51821,52.98,45995,47.02,4775,4.88,10.38,1719,1.76,3.74,39501,40.38,85.88,7,M,BERTELOOT,Pierrick,Rassemblement National,21367,21.84,54.09,Elu,NUPES
+289,59016,59,Nord,16,16ème circonscription,Complet,83735,48582,58.02,35153,41.98,2027,2.42,5.77,707,0.84,2.01,32419,38.72,92.22,4,M,MARCHIO,Matthieu,Rassemblement National,16322,19.49,50.35,Elu,NUPES
+290,59017,59,Nord,17,17ème circonscription,Complet,73664,42449,57.63,31215,42.37,1816,2.47,5.82,637,0.86,2.04,28762,39.04,92.14,6,M,FRANCOIS,Thibaut,Rassemblement National,15408,20.92,53.57,Elu,Ensemble!
+291,59018,59,Nord,18,18ème circonscription,Complet,91116,51013,55.99,40103,44.01,1539,1.69,3.84,585,0.64,1.46,37979,41.68,94.7,1,M,BRICOUT,Guy,Union des démocrates et indépendants,19211,21.08,50.58,Elu,Rassemblement National
+292,59019,59,Nord,19,19ème circonscription,Complet,80364,47341,58.91,33023,41.09,1796,2.23,5.44,691,0.86,2.09,30536,38.0,92.47,5,M,CHENU,Sébastien,Rassemblement National,17451,21.71,57.15,Elu,NUPES
+293,59020,59,Nord,20,20ème circonscription,Complet,81528,49337,60.52,32191,39.48,1509,1.85,4.69,518,0.64,1.61,30164,37.0,93.7,5,M,ROUSSEL,Fabien,NUPES,16439,20.16,54.5,Elu,Rassemblement National
+294,59021,59,Nord,21,21ème circonscription,Complet,81073,48973,60.41,32100,39.59,1485,1.83,4.63,507,0.63,1.58,30108,37.14,93.79,3,F,DESCAMPS,Béatrice,Divers droite,17199,21.21,57.12,Elu,Rassemblement National
+295,60001,60,Oise,1,1ère circonscription,Complet,83131,45554,54.8,37577,45.2,1810,2.18,4.82,662,0.8,1.76,35105,42.23,93.42,8,M,HABERT-DASSAULT,Victor,Les Républicains,20480,24.64,58.34,Elu,Rassemblement National
+296,60002,60,Oise,2,2ème circonscription,Complet,89123,47644,53.46,41479,46.54,2320,2.6,5.59,734,0.82,1.77,38425,43.11,92.64,6,M,BALLARD,Philippe,Rassemblement National,21451,24.07,55.83,Elu,Ensemble!
+297,60003,60,Oise,3,3ème circonscription,Complet,73841,43564,59.0,30277,41.0,2640,3.58,8.72,802,1.09,2.65,26835,36.34,88.63,8,M,SABATOU,Alexandre,Rassemblement National,14066,19.05,52.42,Elu,NUPES
+298,60004,60,Oise,4,4ème circonscription,Complet,93576,50976,54.48,42600,45.52,2709,2.89,6.36,882,0.94,2.07,39009,41.69,91.57,5,M,WOERTH,Eric,Ensemble!,21201,22.66,54.35,Elu,Rassemblement National
+299,60005,60,Oise,5,5ème circonscription,Complet,73335,40467,55.18,32868,44.82,1576,2.15,4.79,463,0.63,1.41,30829,42.04,93.8,4,M,VATIN,Pierre,Les Républicains,18430,25.13,59.78,Elu,Rassemblement National
+300,60006,60,Oise,6,6ème circonscription,Complet,75897,40479,53.33,35418,46.67,2227,2.93,6.29,598,0.79,1.69,32593,42.94,92.02,6,M,GUINIOT,Michel,Rassemblement National,17135,22.58,52.57,Elu,Ensemble!
+301,60007,60,Oise,7,7ème circonscription,Complet,76867,42406,55.17,34461,44.83,1413,1.84,4.1,548,0.71,1.59,32500,42.28,94.31,3,M,MINOT,Maxime,Les Républicains,18442,23.99,56.74,Elu,NUPES
+302,61001,61,Orne,1,1ère circonscription,Complet,68543,36029,52.56,32514,47.44,2229,3.25,6.86,848,1.24,2.61,29437,42.95,90.54,5,F,JOURDAN,Chantal,NUPES,14776,21.56,50.2,Elu,Ensemble!
+303,61002,61,Orne,2,2ème circonscription,Complet,66067,33966,51.41,32101,48.59,1811,2.74,5.64,493,0.75,1.54,29797,45.1,92.82,2,F,LOUWAGIE,Véronique,Les Républicains,18118,27.42,60.8,Elu,Rassemblement National
+304,61003,61,Orne,3,3ème circonscription,Complet,71129,37419,52.61,33710,47.39,2135,3.0,6.33,561,0.79,1.66,31014,43.6,92.0,1,M,NURY,Jérôme,Les Républicains,21603,30.37,69.66,Elu,Rassemblement National
+305,62001,62,Pas-de-Calais,1,1ère circonscription,Complet,104991,52174,49.69,52817,50.31,2545,2.42,4.82,1181,1.12,2.24,49091,46.76,92.95,8,M,BLAIRY,Emmanuel,Rassemblement National,27380,26.08,55.77,Elu,Ensemble!
+306,62002,62,Pas-de-Calais,2,2ème circonscription,Complet,87622,44772,51.1,42850,48.9,2901,3.31,6.77,1633,1.86,3.81,38316,43.73,89.42,13,F,MAQUET,Jacqueline,Ensemble!,20971,23.93,54.73,Elu,Rassemblement National
+307,62003,62,Pas-de-Calais,3,3ème circonscription,Complet,83202,48535,58.33,34667,41.67,1438,1.73,4.15,712,0.86,2.05,32517,39.08,93.8,7,M,TELLIER,Jean-Marc,NUPES,16294,19.58,50.11,Elu,Rassemblement National
+308,62004,62,Pas-de-Calais,4,4ème circonscription,Complet,89977,45178,50.21,44799,49.79,2289,2.54,5.11,1116,1.24,2.49,41394,46.01,92.4,6,M,FAIT,Philippe,Ensemble!,23331,25.93,56.36,Elu,Rassemblement National
+309,62005,62,Pas-de-Calais,5,5ème circonscription,Complet,90607,51747,57.11,38860,42.89,2346,2.59,6.04,1040,1.15,2.68,35474,39.15,91.29,5,M,PONT,Jean-Pierre,Ensemble!,18102,19.98,51.03,Elu,Rassemblement National
+310,62006,62,Pas-de-Calais,6,6ème circonscription,Complet,93784,46918,50.03,46866,49.97,2077,2.21,4.43,1129,1.2,2.41,43660,46.55,93.16,2,F,ENGRAND,Christine,Rassemblement National,21858,23.31,50.06,Elu,Ensemble!
+311,62007,62,Pas-de-Calais,7,7ème circonscription,Complet,94080,55621,59.12,38459,40.88,1570,1.67,4.08,827,0.88,2.15,36062,38.33,93.77,6,M,DUMONT,Pierre-Henri,Les Républicains,20132,21.4,55.83,Elu,Rassemblement National
+312,62008,62,Pas-de-Calais,8,8ème circonscription,Complet,92206,48333,52.42,43873,47.58,1931,2.09,4.4,1093,1.19,2.49,40849,44.3,93.11,9,M,PETIT,Bertrand,Divers gauche,22801,24.73,55.82,Elu,Rassemblement National
+313,62009,62,Pas-de-Calais,9,9ème circonscription,Complet,80131,42338,52.84,37793,47.16,1956,2.44,5.18,971,1.21,2.57,34866,43.51,92.26,11,F,PARMENTIER,Caroline,Rassemblement National,18587,23.2,53.31,Elu,Ensemble!
+314,62010,62,Pas-de-Calais,10,10ème circonscription,Complet,88838,51366,57.82,37472,42.18,1789,2.01,4.77,995,1.12,2.66,34688,39.05,92.57,9,M,FRAPPÉ,Thierry,Rassemblement National,22685,25.54,65.4,Elu,Ensemble!
+315,62011,62,Pas-de-Calais,11,11ème circonscription,Complet,94174,54971,58.37,39203,41.63,1758,1.87,4.48,903,0.96,2.3,36542,38.8,93.21,5,F,LE PEN,Marine,Rassemblement National,22303,23.68,61.03,Elu,NUPES
+316,62012,62,Pas-de-Calais,12,12ème circonscription,Complet,96500,56198,58.24,40302,41.76,2311,2.39,5.73,946,0.98,2.35,37045,38.39,91.92,9,M,BILDE,Bruno,Rassemblement National,20855,21.61,56.3,Elu,NUPES
+317,63001,63,Puy-de-Dôme,1,1ère circonscription,Complet,84198,46788,55.57,37410,44.43,1744,2.07,4.66,840,1.0,2.25,34826,41.36,93.09,3,F,MAXIMI,Marianne,NUPES,18189,21.6,52.23,Elu,Ensemble!
+318,63002,63,Puy-de-Dôme,2,2ème circonscription,Complet,90091,44608,49.51,45483,50.49,2392,2.66,5.26,1401,1.56,3.08,41690,46.28,91.66,1,F,PIRÈS BEAUNE,Christine,NUPES,26613,29.54,63.84,Elu,Ensemble!
+319,63003,63,Puy-de-Dôme,3,3ème circonscription,Complet,89903,42760,47.56,47143,52.44,2522,2.81,5.35,1221,1.36,2.59,43400,48.27,92.06,11,F,VICHNIEVSKY,Laurence,Ensemble!,23042,25.63,53.09,Elu,NUPES
+320,63004,63,Puy-de-Dôme,4,4ème circonscription,Complet,101361,51718,51.02,49643,48.98,2998,2.96,6.04,1401,1.38,2.82,45244,44.64,91.14,5,F,LINGEMANN,Delphine,Ensemble!,22680,22.38,50.13,Elu,NUPES
+321,63005,63,Puy-de-Dôme,5,5ème circonscription,Complet,104443,55101,52.76,49342,47.24,3328,3.19,6.74,1415,1.35,2.87,44599,42.7,90.39,6,M,CHASSAIGNE,André,NUPES,30966,29.65,69.43,Elu,Rassemblement National
+322,64001,64,Pyrénées-Atlantiques,1,1ère circonscription,Complet,69016,32791,47.51,36225,52.49,1871,2.71,5.16,1013,1.47,2.8,33341,48.31,92.04,8,F,POUEYTO,Josy,Ensemble!,16929,24.53,50.78,Elu,NUPES
+323,64002,64,Pyrénées-Atlantiques,2,2ème circonscription,Complet,83109,39590,47.64,43519,52.36,2599,3.13,5.97,1220,1.47,2.8,39700,47.77,91.22,7,M,MATTEI,Jean-Paul,Ensemble!,21720,26.13,54.71,Elu,NUPES
+324,64003,64,Pyrénées-Atlantiques,3,3ème circonscription,Complet,84067,40610,48.31,43457,51.69,2565,3.05,5.9,1201,1.43,2.76,39691,47.21,91.33,1,M,HABIB,David,Divers gauche,26414,31.42,66.55,Elu,NUPES
+325,64004,64,Pyrénées-Atlantiques,4,4ème circonscription,Complet,80815,36672,45.38,44143,54.62,2923,3.62,6.62,1439,1.78,3.26,39781,49.22,90.12,7,M,ECHANIZ,Inaki,NUPES,19935,24.67,50.11,Elu,Ensemble!
+326,64005,64,Pyrénées-Atlantiques,5,5ème circonscription,Complet,99411,50775,51.08,48636,48.92,2987,3.0,6.14,1196,1.2,2.46,44453,44.72,91.4,5,F,LASSERRE,Florence,Ensemble!,24184,24.33,54.4,Elu,NUPES
+327,64006,64,Pyrénées-Atlantiques,6,6ème circonscription,Complet,105506,54222,51.39,51284,48.61,3364,3.19,6.56,1429,1.35,2.79,46491,44.06,90.65,11,M,BRU,Vincent,Ensemble!,27994,26.53,60.21,Elu,NUPES
+328,65001,65,Hautes-Pyrénées,1,1ère circonscription,Complet,88025,41684,47.35,46341,52.65,3377,3.84,7.29,1756,1.99,3.79,41208,46.81,88.92,9,F,FERRER,Sylvie,NUPES,20656,23.47,50.13,Elu,Ensemble!
+329,65002,65,Hautes-Pyrénées,2,2ème circonscription,Complet,89776,44379,49.43,45397,50.57,3339,3.72,7.36,1747,1.95,3.85,40311,44.9,88.8,7,M,MOURNET,Benoit,Ensemble!,21073,23.47,52.28,Elu,NUPES
+330,66001,66,Pyrénées-Orientales,1,1ère circonscription,Complet,72798,40450,55.56,32348,44.44,2041,2.8,6.31,865,1.19,2.67,29442,40.44,91.02,12,F,BLANC,Sophie,Rassemblement National,15859,21.78,53.87,Elu,Ensemble!
+331,66002,66,Pyrénées-Orientales,2,2ème circonscription,Complet,103633,56009,54.05,47624,45.95,2748,2.65,5.77,1297,1.25,2.72,43579,42.05,91.51,1,F,SABATINI,Anaïs,Rassemblement National,26682,25.75,61.23,Elu,Ensemble!
+332,66003,66,Pyrénées-Orientales,3,3ème circonscription,Complet,84997,43920,51.67,41077,48.33,4007,4.71,9.75,1403,1.65,3.42,35667,41.96,86.83,11,F,DOGOR-SUCH,Sandrine,Rassemblement National,19299,22.71,54.11,Elu,NUPES
+333,66004,66,Pyrénées-Orientales,4,4ème circonscription,Complet,101920,53819,52.81,48101,47.19,3453,3.39,7.18,1411,1.38,2.93,43237,42.42,89.89,3,F,MARTINEZ,Michèle,Rassemblement National,24332,23.87,56.28,Elu,Ensemble!
+334,67001,67,Bas-Rhin,1,1ère circonscription,Complet,62699,31339,49.98,31360,50.02,809,1.29,2.58,300,0.48,0.96,30251,48.25,96.46,5,F,REGOL,Sandra,NUPES,15569,24.83,51.47,Elu,Ensemble!
+335,67002,67,Bas-Rhin,2,2ème circonscription,Complet,73382,38710,52.75,34672,47.25,1093,1.49,3.15,415,0.57,1.2,33164,45.19,95.65,3,M,FERNANDES,Emmanuel,NUPES,16990,23.15,51.23,Elu,Ensemble!
+336,67003,67,Bas-Rhin,3,3ème circonscription,Complet,70930,39438,55.6,31492,44.4,1106,1.56,3.51,387,0.55,1.23,29999,42.29,95.26,12,M,STUDER,Bruno,Ensemble!,16357,23.06,54.53,Elu,NUPES
+337,67004,67,Bas-Rhin,4,4ème circonscription,Complet,97920,53953,55.1,43967,44.9,2456,2.51,5.59,855,0.87,1.94,40656,41.52,92.47,3,F,BUFFET,Françoise,Ensemble!,26874,27.44,66.1,Elu,NUPES
+338,67005,67,Bas-Rhin,5,5ème circonscription,Complet,106193,61193,57.62,45000,42.38,2371,2.23,5.27,719,0.68,1.6,41910,39.47,93.13,1,M,SITZENSTUHL,Charles,Ensemble!,25426,23.94,60.67,Elu,Rassemblement National
+339,67006,67,Bas-Rhin,6,6ème circonscription,Complet,97620,55041,56.38,42579,43.62,2100,2.15,4.93,614,0.63,1.44,39865,40.84,93.63,7,F,MOREL,Louise,Ensemble!,23080,23.64,57.9,Elu,Rassemblement National
+340,67007,67,Bas-Rhin,7,7ème circonscription,Complet,85756,50064,58.38,35692,41.62,1405,1.64,3.94,434,0.51,1.22,33853,39.48,94.85,6,M,HETZEL,Patrick,Les Républicains,21676,25.28,64.03,Elu,Rassemblement National
+341,67008,67,Bas-Rhin,8,8ème circonscription,Complet,94522,54954,58.14,39568,41.86,1297,1.37,3.28,533,0.56,1.35,37738,39.93,95.38,1,F,KOCHERT,Stéphanie,Ensemble!,21373,22.61,56.64,Elu,Rassemblement National
+342,67009,67,Bas-Rhin,9,9ème circonscription,Complet,95510,56477,59.13,39033,40.87,1514,1.59,3.88,543,0.57,1.39,36976,38.71,94.73,8,M,THIEBAUT,Vincent,Ensemble!,22108,23.15,59.79,Elu,Rassemblement National
+343,68001,68,Haut-Rhin,1,1ère circonscription,Complet,78291,48074,61.4,30217,38.6,1561,1.99,5.17,500,0.64,1.65,28156,35.96,93.18,5,F,KLINKERT,Brigitte,Ensemble!,14141,18.06,50.22,Elu,Les Républicains
+344,68002,68,Haut-Rhin,2,2ème circonscription,Complet,92585,54927,59.33,37658,40.67,2863,3.09,7.6,872,0.94,2.32,33923,36.64,90.08,6,M,OTT,Hubert,Ensemble!,17947,19.38,52.91,Elu,Les Républicains
+345,68003,68,Haut-Rhin,3,3ème circonscription,Complet,87107,50068,57.48,37039,42.52,1717,1.97,4.64,528,0.61,1.43,34794,39.94,93.94,7,M,LEMAIRE,Didier,Ensemble!,18757,21.53,53.91,Elu,Rassemblement National
+346,68004,68,Haut-Rhin,4,4ème circonscription,Complet,104018,61043,58.69,42975,41.31,2017,1.94,4.69,523,0.5,1.22,40435,38.87,94.09,4,M,SCHELLENBERGER,Raphaël,Les Républicains,22214,21.36,54.94,Elu,Rassemblement National
+347,68005,68,Haut-Rhin,5,5ème circonscription,Complet,77082,46415,60.22,30667,39.78,1867,2.42,6.09,263,0.34,0.86,28537,37.02,93.05,1,M,BECHT,Olivier,Ensemble!,18443,23.93,64.63,Elu,NUPES
+348,68006,68,Haut-Rhin,6,6ème circonscription,Complet,94500,58483,61.89,36017,38.11,1992,2.11,5.53,391,0.41,1.09,33634,35.59,93.38,15,M,FUCHS,Bruno,Ensemble!,18604,19.69,55.31,Elu,Rassemblement National
+349,69001,69,Rhône,1,1ère circonscription,Complet,72741,34783,47.82,37958,52.18,1234,1.7,3.25,469,0.64,1.24,36255,49.84,95.51,3,M,RUDIGOZ,Thomas,Ensemble!,18803,25.85,51.86,Elu,NUPES
+350,69002,69,Rhône,2,2ème circonscription,Complet,74047,31883,43.06,42164,56.94,1289,1.74,3.06,504,0.68,1.2,40371,54.52,95.75,3,M,JULIEN-LAFERRIERE,Hubert,NUPES,20847,28.15,51.64,Elu,Ensemble!
+351,69003,69,Rhône,3,3ème circonscription,Complet,72457,32322,44.61,40135,55.39,1152,1.59,2.87,462,0.64,1.15,38521,53.16,95.98,11,F,GARIN,Marie-Charlotte,NUPES,21105,29.13,54.79,Elu,Ensemble!
+352,69004,69,Rhône,4,4ème circonscription,Complet,78300,34441,43.99,43859,56.01,1489,1.9,3.39,578,0.74,1.32,41792,53.37,95.29,6,F,BRUGNERA,Anne,Ensemble!,24803,31.68,59.35,Elu,NUPES
+353,69005,69,Rhône,5,5ème circonscription,Complet,90165,44045,48.85,46120,51.15,2035,2.26,4.41,712,0.79,1.54,43373,48.1,94.04,5,F,BROCARD,Blandine,Ensemble!,29198,32.38,67.32,Elu,NUPES
+354,69006,69,Rhône,6,6ème circonscription,Complet,89588,50805,56.71,38783,43.29,1526,1.7,3.93,532,0.59,1.37,36725,40.99,94.69,14,M,AMARD,Gabriel,NUPES,20397,22.77,55.54,Elu,Ensemble!
+355,69007,69,Rhône,7,7ème circonscription,Complet,70999,42187,59.42,28812,40.58,801,1.13,2.78,316,0.45,1.1,27695,39.01,96.12,5,M,VINCENDET,Alexandre,Les Républicains,14801,20.85,53.44,Elu,NUPES
+356,69008,69,Rhône,8,8ème circonscription,Complet,105090,57339,54.56,47751,45.44,3715,3.54,7.78,1023,0.97,2.14,43013,40.93,90.08,8,F,SERRE,Nathalie,Les Républicains,21855,20.8,50.81,Elu,Ensemble!
+357,69009,69,Rhône,9,9ème circonscription,Complet,96668,56143,58.08,40525,41.92,3264,3.38,8.05,866,0.9,2.14,36395,37.65,89.81,2,M,PORTIER,Alexandre,Les Républicains,22385,23.16,61.51,Elu,Ensemble!
+358,69010,69,Rhône,10,10ème circonscription,Complet,99415,50121,50.42,49294,49.58,2414,2.43,4.9,806,0.81,1.64,46074,46.35,93.47,8,M,GASSILLOUD,Thomas,Ensemble!,30089,30.27,65.31,Elu,NUPES
+359,69011,69,Rhône,11,11ème circonscription,Complet,96597,52632,54.49,43965,45.51,2691,2.79,6.12,921,0.95,2.09,40353,41.77,91.78,10,M,FUGIT,Jean-Luc,Ensemble!,25864,26.78,64.09,Elu,NUPES
+360,69012,69,Rhône,12,12ème circonscription,Complet,82191,41053,49.95,41138,50.05,1884,2.29,4.58,720,0.88,1.75,38534,46.88,93.67,5,M,ISAAC-SIBILLE,Cyrille,Ensemble!,24244,29.5,62.92,Elu,NUPES
+361,69013,69,Rhône,13,13ème circonscription,Complet,88594,50225,56.69,38369,43.31,2155,2.43,5.62,779,0.88,2.03,35435,40.0,92.35,1,F,TANZILLI,Sarah,Ensemble!,22200,25.06,62.65,Elu,NUPES
+362,69014,69,Rhône,14,14ème circonscription,Complet,75892,49734,65.53,26158,34.47,1201,1.58,4.59,619,0.82,2.37,24338,32.07,93.04,9,M,BOUMERTIT,Idir,NUPES,13798,18.18,56.69,Elu,Ensemble!
+363,70001,70,Haute-Saône,1,1ère circonscription,Complet,88324,42658,48.3,45666,51.7,2825,3.2,6.19,1564,1.77,3.42,41277,46.73,90.39,4,M,VILLEDIEU,Antoine,Rassemblement National,22497,25.47,54.5,Elu,Ensemble!
+364,70002,70,Haute-Saône,2,2ème circonscription,Complet,89797,44611,49.68,45186,50.32,2770,3.08,6.13,1508,1.68,3.34,40908,45.56,90.53,6,M,SALMON,Emeric,Rassemblement National,22245,24.77,54.38,Elu,Ensemble!
+365,71001,71,Saône-et-Loire,1,1ère circonscription,Complet,74571,39756,53.31,34815,46.69,1970,2.64,5.66,794,1.06,2.28,32051,42.98,92.06,9,M,DIRX,Benjamin,Ensemble!,18349,24.61,57.25,Elu,NUPES
+366,71002,71,Saône-et-Loire,2,2ème circonscription,Complet,77218,40831,52.88,36387,47.12,1461,1.89,4.02,684,0.89,1.88,34242,44.34,94.11,1,F,CORNELOUP,Josiane,Les Républicains,22823,29.56,66.65,Elu,NUPES
+367,71003,71,Saône-et-Loire,3,3ème circonscription,Complet,81182,43000,52.97,38182,47.03,2789,3.44,7.3,986,1.21,2.58,34407,42.38,90.11,1,M,REBEYROTTE,Rémy,Ensemble!,18482,22.77,53.72,Elu,Rassemblement National
+368,71004,71,Saône-et-Loire,4,4ème circonscription,Complet,83089,45091,54.27,37998,45.73,2623,3.16,6.9,882,1.06,2.32,34493,41.51,90.78,7,F,UNTERMAIER,Cécile,NUPES,19421,23.37,56.3,Elu,Rassemblement National
+369,71005,71,Saône-et-Loire,5,5ème circonscription,Complet,88048,49722,56.47,38326,43.53,2901,3.29,7.57,1447,1.64,3.78,33978,38.59,88.66,10,M,MARGUERITTE,Louis,Ensemble!,17893,20.32,52.66,Elu,NUPES
+370,72001,72,Sarthe,1,1ère circonscription,Complet,73504,38662,52.6,34842,47.4,2656,3.61,7.62,673,0.92,1.93,31513,42.87,90.45,5,F,DELPECH,Julie,Ensemble!,17300,23.54,54.9,Elu,NUPES
+371,72002,72,Sarthe,2,2ème circonscription,Complet,83278,47316,56.82,35962,43.18,3039,3.65,8.45,572,0.69,1.59,32351,38.85,89.96,8,F,KARAMANLI,Marietta,NUPES,20399,24.5,63.06,Elu,Rassemblement National
+372,72003,72,Sarthe,3,3ème circonscription,Complet,86555,46736,54.0,39819,46.0,2687,3.1,6.75,1048,1.21,2.63,36084,41.69,90.62,5,M,MARTINEAU,Eric,Ensemble!,18394,21.25,50.98,Elu,Rassemblement National
+373,72004,72,Sarthe,4,4ème circonscription,Complet,80893,44964,55.58,35929,44.42,5090,6.29,14.17,1145,1.42,3.19,29694,36.71,82.65,6,F,LEBOUCHER,Elise,NUPES,14891,18.41,50.15,Elu,Rassemblement National
+374,72005,72,Sarthe,5,5ème circonscription,Complet,87884,48410,55.08,39474,44.92,3255,3.7,8.25,641,0.73,1.62,35578,40.48,90.13,10,M,GRELIER,Jean-Carles,Ensemble!,21174,24.09,59.51,Elu,Rassemblement National
+375,73001,73,Savoie,1,1ère circonscription,Complet,93525,49199,52.61,44326,47.39,2656,2.84,5.99,1129,1.21,2.55,40541,43.35,91.46,6,F,FERRARI,Marina,Ensemble!,24051,25.72,59.33,Elu,NUPES
+376,73002,73,Savoie,2,2ème circonscription,Complet,76338,42724,55.97,33614,44.03,1168,1.53,3.47,493,0.65,1.47,31953,41.86,95.06,11,M,ROLLAND,Vincent,Les Républicains,20474,26.82,64.08,Elu,NUPES
+377,73003,73,Savoie,3,3ème circonscription,Complet,74458,37332,50.14,37126,49.86,1343,1.8,3.62,464,0.62,1.25,35319,47.43,95.13,2,F,BONNIVARD,Emilie,Les Républicains,23149,31.09,65.54,Elu,NUPES
+378,73004,73,Savoie,4,4ème circonscription,Complet,77957,39542,50.72,38415,49.28,2037,2.61,5.3,816,1.05,2.12,35562,45.62,92.57,9,M,COULOMME,Jean-François,NUPES,18083,23.2,50.85,Elu,Ensemble!
+379,74001,74,Haute-Savoie,1,1ère circonscription,Complet,109094,58529,53.65,50565,46.35,2774,2.54,5.49,1002,0.92,1.98,46789,42.89,92.53,10,F,RIOTTON,Véronique,Ensemble!,29312,26.87,62.65,Elu,NUPES
+380,74002,74,Haute-Savoie,2,2ème circonscription,Complet,100231,53811,53.69,46420,46.31,2465,2.46,5.31,856,0.85,1.84,43099,43.0,92.85,12,M,ARMAND,Antoine,Ensemble!,25809,25.75,59.88,Elu,NUPES
+381,74003,74,Haute-Savoie,3,3ème circonscription,Complet,88240,48368,54.81,39872,45.19,1579,1.79,3.96,599,0.68,1.5,37694,42.72,94.54,6,F,PETEX-LEVET,Christelle,Les Républicains,23882,27.06,63.36,Elu,NUPES
+382,74004,74,Haute-Savoie,4,4ème circonscription,Complet,88829,52949,59.61,35880,40.39,954,1.07,2.66,302,0.34,0.84,34624,38.98,96.5,8,F,DUBY-MULLER,Virginie,Les Républicains,23171,26.08,66.92,Elu,NUPES
+383,74005,74,Haute-Savoie,5,5ème circonscription,Complet,101817,58655,57.61,43162,42.39,2425,2.38,5.62,1006,0.99,2.33,39731,39.02,92.05,12,F,VIOLLAND,Anne-Cécile,Ensemble!,23873,23.45,60.09,Elu,NUPES
+384,74006,74,Haute-Savoie,6,6ème circonscription,Complet,81409,47867,58.8,33542,41.2,2219,2.73,6.62,587,0.72,1.75,30736,37.76,91.63,3,M,ROSEREN,Xavier,Ensemble!,19398,23.83,63.11,Elu,Rassemblement National
+385,75001,75,Paris,1,1ère circonscription,Complet,84577,38783,45.86,45794,54.14,1539,1.82,3.36,553,0.65,1.21,43702,51.67,95.43,5,M,MAILLARD,Sylvain,Ensemble!,28656,33.88,65.57,Elu,NUPES
+386,75002,75,Paris,2,2ème circonscription,Complet,74773,32353,43.27,42420,56.73,1641,2.19,3.87,597,0.8,1.41,40182,53.74,94.72,9,M,LE GENDRE,Gilles,Ensemble!,25472,34.07,63.39,Elu,NUPES
+387,75003,75,Paris,3,3ème circonscription,Complet,73145,33008,45.13,40137,54.87,1234,1.69,3.07,447,0.61,1.11,38456,52.58,95.81,7,M,GUERINI,Stanislas,Ensemble!,19613,26.81,51.0,Elu,NUPES
+388,75004,75,Paris,4,4ème circonscription,Complet,72986,36764,50.37,36222,49.63,1377,1.89,3.8,297,0.41,0.82,34548,47.34,95.38,4,F,PANOSYAN-BOUVET,Astrid,Ensemble!,19159,26.25,55.46,Elu,Les Républicains
+389,75005,75,Paris,5,5ème circonscription,Complet,79355,35104,44.24,44251,55.76,1044,1.32,2.36,390,0.49,0.88,42817,53.96,96.76,10,M,BAYOU,Julien,NUPES,24857,31.32,58.05,Elu,Ensemble!
+390,75006,75,Paris,6,6ème circonscription,Complet,80908,35276,43.6,45632,56.4,498,0.62,1.09,188,0.23,0.41,44946,55.55,98.5,4,F,CHIKIROU,Sophia,NUPES,24155,29.85,53.74,Elu,Elu au premier tour
+391,75007,75,Paris,7,7ème circonscription,Complet,80255,33447,41.68,46808,58.32,1195,1.49,2.55,439,0.55,0.94,45174,56.29,96.51,2,M,BEAUNE,Clément,Ensemble!,22916,28.55,50.73,Elu,NUPES
+392,75008,75,Paris,8,8ème circonscription,Complet,85267,38854,45.57,46413,54.43,1735,2.03,3.74,623,0.73,1.34,44055,51.67,94.92,13,F,SAS,Eva,NUPES,23825,27.94,54.08,Elu,Ensemble!
+393,75009,75,Paris,9,9ème circonscription,Complet,70816,33121,46.77,37695,53.23,1507,2.13,4.0,640,0.9,1.7,35548,50.2,94.3,13,F,ROUSSEAU,Sandrine,NUPES,20635,29.14,58.05,Elu,Ensemble!
+394,75010,75,Paris,10,10ème circonscription,Complet,70239,32105,45.71,38134,54.29,1236,1.76,3.24,505,0.72,1.32,36393,51.81,95.43,2,M,ARENAS,Rodrigo,NUPES,19808,28.2,54.43,Elu,Ensemble!
+395,75011,75,Paris,11,11ème circonscription,Complet,73058,29154,39.91,43904,60.09,1251,1.71,2.85,440,0.6,1.0,42213,57.78,96.15,3,F,GATEL,Maud,Ensemble!,23407,32.04,55.45,Elu,NUPES
+396,75012,75,Paris,12,12ème circonscription,Complet,75816,33804,44.59,42012,55.41,2079,2.74,4.95,657,0.87,1.56,39276,51.8,93.49,3,F,GREGOIRE,Olivia,Ensemble!,26908,35.49,68.51,Elu,NUPES
+397,75013,75,Paris,13,13ème circonscription,Complet,78188,35842,45.84,42346,54.16,1720,2.2,4.06,563,0.72,1.33,40063,51.24,94.61,12,M,AMIEL,David,Ensemble!,23982,30.67,59.86,Elu,NUPES
+398,75014,75,Paris,14,14ème circonscription,Complet,76071,37486,49.28,38585,50.72,1206,1.59,3.13,290,0.38,0.75,37089,48.76,96.12,8,M,HADDAD,Benjamin,Ensemble!,19742,25.95,53.23,Elu,Les Républicains
+399,75015,75,Paris,15,15ème circonscription,Complet,79108,41201,52.08,37907,47.92,1643,2.08,4.33,510,0.64,1.35,35754,45.2,94.32,5,F,SIMONNET,Danielle,NUPES,20897,26.42,58.45,Elu,Divers gauche
+400,75016,75,Paris,16,16ème circonscription,Complet,75126,37718,50.21,37408,49.79,396,0.53,1.06,153,0.2,0.41,36859,49.06,98.53,1,F,LEGRAIN,Sarah,NUPES,20829,27.73,56.51,Elu,Elu au premier tour
+401,75017,75,Paris,17,17ème circonscription,Complet,62130,33298,53.59,28832,46.41,352,0.57,1.22,160,0.26,0.55,28320,45.58,98.22,2,F,OBONO,Danièle,NUPES,16162,26.01,57.07,Elu,Elu au premier tour
+402,75018,75,Paris,18,18ème circonscription,Complet,70689,30795,43.56,39894,56.44,977,1.38,2.45,358,0.51,0.9,38559,54.55,96.65,12,M,CARON,Aymeric,NUPES,19914,28.17,51.65,Elu,Ensemble!
+403,76001,76,Seine-Maritime,1,1ère circonscription,Complet,66683,33260,49.88,33423,50.12,1367,2.05,4.09,490,0.73,1.47,31566,47.34,94.44,9,M,ADAM,Damien,Ensemble!,15822,23.73,50.12,Elu,NUPES
+404,76002,76,Seine-Maritime,2,2ème circonscription,Complet,95314,45788,48.04,49526,51.96,3451,3.62,6.97,1045,1.1,2.11,45030,47.24,90.92,6,F,VIDAL,Annie,Ensemble!,26856,28.18,59.64,Elu,NUPES
+405,76003,76,Seine-Maritime,3,3ème circonscription,Complet,70128,40669,57.99,29459,42.01,2110,3.01,7.16,535,0.76,1.82,26814,38.24,91.02,1,M,WULFRANC,Hubert,NUPES,18867,26.9,70.36,Elu,Rassemblement National
+406,76004,76,Seine-Maritime,4,4ème circonscription,Complet,87128,49056,56.3,38072,43.7,3987,4.58,10.47,1022,1.17,2.68,33063,37.95,86.84,2,F,DUFOUR,Alma,NUPES,17763,20.39,53.72,Elu,Rassemblement National
+407,76005,76,Seine-Maritime,5,5ème circonscription,Complet,95185,49929,52.45,45256,47.55,3391,3.56,7.49,880,0.92,1.94,40985,43.06,90.56,1,M,LESEUL,Gérard,NUPES,22872,24.03,55.81,Elu,Rassemblement National
+408,76006,76,Seine-Maritime,6,6ème circonscription,Complet,109827,56097,51.08,53730,48.92,4364,3.97,8.12,1275,1.16,2.37,48091,43.79,89.5,3,M,JUMEL,Sébastien,NUPES,27801,25.31,57.81,Elu,Rassemblement National
+409,76007,76,Seine-Maritime,7,7ème circonscription,Complet,86816,46951,54.08,39865,45.92,2284,2.63,5.73,294,0.34,0.74,37287,42.95,93.53,11,F,FIRMIN LE BODO,Agnès,Ensemble!,21578,24.85,57.87,Elu,NUPES
+410,76008,76,Seine-Maritime,8,8ème circonscription,Complet,65792,41312,62.79,24480,37.21,1410,2.14,5.76,81,0.12,0.33,22989,34.94,93.91,1,M,LECOQ,Jean-Paul,NUPES,15117,22.98,65.76,Elu,Ensemble!
+411,76009,76,Seine-Maritime,9,9ème circonscription,Complet,95673,49753,52.0,45920,48.0,2916,3.05,6.35,1008,1.05,2.2,41996,43.9,91.45,5,F,POUSSIER-WINSBACK,Marie-Agnès,Ensemble!,21352,22.32,50.84,Elu,Rassemblement National
+412,76010,76,Seine-Maritime,10,10ème circonscription,Complet,110317,54955,49.82,55362,50.18,3522,3.19,6.36,1106,1.0,2.0,50734,45.99,91.64,6,M,BATUT,Xavier,Ensemble!,25899,23.48,51.05,Elu,Rassemblement National
+413,77001,77,Seine-et-Marne,1,1ère circonscription,Complet,71939,41345,57.47,30594,42.53,1693,2.35,5.53,641,0.89,2.1,28260,39.28,92.37,6,F,LUQUET,Aude,Ensemble!,14994,20.84,53.06,Elu,NUPES
+414,77002,77,Seine-et-Marne,2,2ème circonscription,Complet,79935,41819,52.32,38116,47.68,2349,2.94,6.16,874,1.09,2.29,34893,43.65,91.54,6,M,VALLETOUX,Frédéric,Ensemble!,20037,25.07,57.42,Elu,NUPES
+415,77003,77,Seine-et-Marne,3,3ème circonscription,Complet,77071,42520,55.17,34551,44.83,1541,2.0,4.46,516,0.67,1.49,32494,42.16,94.05,3,M,THIÉRIOT,Jean-Louis,Les Républicains,18422,23.9,56.69,Elu,NUPES
+416,77004,77,Seine-et-Marne,4,4ème circonscription,Complet,88843,48884,55.02,39959,44.98,2426,2.73,6.07,660,0.74,1.65,36873,41.5,92.28,4,F,PERIGAULT,Isabelle,Les Républicains,18866,21.24,51.16,Elu,Rassemblement National
+417,77005,77,Seine-et-Marne,5,5ème circonscription,Complet,88370,51496,58.27,36874,41.73,2521,2.85,6.84,622,0.7,1.69,33731,38.17,91.48,3,M,RIESTER,Franck,Ensemble!,17949,20.31,53.21,Elu,Rassemblement National
+418,77006,77,Seine-et-Marne,6,6ème circonscription,Complet,81567,48243,59.15,33324,40.85,3089,3.79,9.27,692,0.85,2.08,29543,36.22,88.65,5,F,ROULLAUD,Béatrice,Rassemblement National,15399,18.88,52.12,Elu,NUPES
+419,77007,77,Seine-et-Marne,7,7ème circonscription,Complet,87857,50921,57.96,36936,42.04,3513,4.0,9.51,811,0.92,2.2,32612,37.12,88.29,8,F,SOUDAIS,Ersilia,NUPES,16732,19.04,51.31,Elu,Rassemblement National
+420,77008,77,Seine-et-Marne,8,8ème circonscription,Complet,95210,54186,56.91,41024,43.09,1752,1.84,4.27,630,0.66,1.54,38642,40.59,94.19,7,M,GHOMI,Hadrien,Ensemble!,19323,20.3,50.01,Elu,NUPES
+421,77009,77,Seine-et-Marne,9,9ème circonscription,Complet,86253,50191,58.19,36062,41.81,2164,2.51,6.0,735,0.85,2.04,33163,38.45,91.96,9,F,PEYRON,Michèle,Ensemble!,17454,20.24,52.63,Elu,NUPES
+422,77010,77,Seine-et-Marne,10,10ème circonscription,Complet,81517,46996,57.65,34521,42.35,1334,1.64,3.86,583,0.72,1.69,32604,40.0,94.45,3,M,LAISNEY,Maxime,NUPES,17724,21.74,54.36,Elu,Ensemble!
+423,77011,77,Seine-et-Marne,11,11ème circonscription,Complet,66546,40793,61.3,25753,38.7,1484,2.23,5.76,294,0.44,1.14,23975,36.03,93.1,7,M,FAURE,Olivier,NUPES,15453,23.22,64.45,Elu,Ensemble!
+424,78001,78,Yvelines,1,1ère circonscription,Complet,83352,39461,47.34,43891,52.66,2450,2.94,5.58,836,1.0,1.9,40605,48.72,92.51,6,M,RODWELL,Charles,Ensemble!,25707,30.84,63.31,Elu,NUPES
+425,78002,78,Yvelines,2,2ème circonscription,Complet,86404,38882,45.0,47522,55.0,2301,2.66,4.84,782,0.91,1.65,44439,51.43,93.51,11,M,BARROT,Jean-Noël,Ensemble!,28559,33.05,64.27,Elu,NUPES
+426,78003,78,Yvelines,3,3ème circonscription,Complet,83457,40717,48.79,42740,51.21,2251,2.7,5.27,815,0.98,1.91,39674,47.54,92.83,4,F,PIRON,Béatrice,Ensemble!,28327,33.94,71.4,Elu,NUPES
+427,78004,78,Yvelines,4,4ème circonscription,Complet,80177,38220,47.67,41957,52.33,1845,2.3,4.4,702,0.88,1.67,39410,49.15,93.93,3,F,LEBEC,Marie,Ensemble!,25888,32.29,65.69,Elu,NUPES
+428,78005,78,Yvelines,5,5ème circonscription,Complet,75656,37200,49.17,38456,50.83,1710,2.26,4.45,631,0.83,1.64,36115,47.74,93.91,7,F,BRAUN-PIVET,Yaël,Ensemble!,23336,30.84,64.62,Elu,NUPES
+429,78006,78,Yvelines,6,6ème circonscription,Complet,75950,39129,51.52,36821,48.48,1698,2.24,4.61,648,0.85,1.76,34475,45.39,93.63,6,F,POUZYREFF,Natalia,Ensemble!,22244,29.29,64.52,Elu,NUPES
+430,78007,78,Yvelines,7,7ème circonscription,Complet,80601,42447,52.66,38154,47.34,1849,2.29,4.85,649,0.81,1.7,35656,44.24,93.45,1,F,HAI,Nadia,Ensemble!,19838,24.61,55.64,Elu,NUPES
+431,78008,78,Yvelines,8,8ème circonscription,Complet,74523,44355,59.52,30168,40.48,1461,1.96,4.84,612,0.82,2.03,28095,37.7,93.13,6,M,LUCAS,Benjamin,NUPES,15849,21.27,56.41,Elu,Ensemble!
+432,78009,78,Yvelines,9,9ème circonscription,Complet,92996,51978,55.89,41018,44.11,3157,3.39,7.7,780,0.84,1.9,37081,39.87,90.4,9,M,MILLIENNE,Bruno,Ensemble!,21450,23.07,57.85,Elu,Rassemblement National
+433,78010,78,Yvelines,10,10ème circonscription,Complet,91550,43332,47.33,48218,52.67,2670,2.92,5.54,1024,1.12,2.12,44524,48.63,92.34,10,F,BERGÉ,Aurore,Ensemble!,28169,30.77,63.27,Elu,NUPES
+434,78011,78,Yvelines,11,11ème circonscription,Complet,69381,35928,51.78,33453,48.22,1466,2.11,4.38,586,0.84,1.75,31401,45.26,93.87,5,M,MARTINET,William,NUPES,15759,22.71,50.19,Elu,Ensemble!
+435,78012,78,Yvelines,12,12ème circonscription,Complet,71168,35436,49.79,35732,50.21,1694,2.38,4.74,555,0.78,1.55,33483,47.05,93.71,9,M,OLIVE,Karl,Ensemble!,20069,28.2,59.94,Elu,NUPES
+436,79001,79,Deux-Sèvres,1,1ère circonscription,Complet,90925,44656,49.11,46269,50.89,2018,2.22,4.36,952,1.05,2.06,43299,47.62,93.58,1,M,MARCHIVE,Bastien,Ensemble!,22511,24.76,51.99,Elu,NUPES
+437,79002,79,Deux-Sèvres,2,2ème circonscription,Complet,98305,51462,52.35,46843,47.65,2281,2.32,4.87,1347,1.37,2.88,43215,43.96,92.25,5,F,BATHO,Delphine,NUPES,25014,25.45,57.88,Elu,Ensemble!
+438,79003,79,Deux-Sèvres,3,3ème circonscription,Complet,84888,46111,54.32,38777,45.68,2186,2.58,5.64,1111,1.31,2.87,35480,41.8,91.5,6,M,FIÉVET,Jean-Marie,Ensemble!,20675,24.36,58.27,Elu,NUPES
+439,80001,80,Somme,1,1ère circonscription,Complet,84051,46400,55.2,37651,44.8,4034,4.8,10.71,1276,1.52,3.39,32341,38.48,85.9,9,M,RUFFIN,François,NUPES,19731,23.48,61.01,Elu,Rassemblement National
+440,80002,80,Somme,2,2ème circonscription,Complet,77992,40967,52.53,37025,47.47,2018,2.59,5.45,820,1.05,2.21,34187,43.83,92.33,9,F,POMPILI,Barbara,Ensemble!,18162,23.29,53.13,Elu,NUPES
+441,80003,80,Somme,3,3ème circonscription,Complet,82597,40012,48.44,42585,51.56,2257,2.73,5.3,811,0.98,1.9,39517,47.84,92.8,11,M,MAQUET,Emmanuel,Les Républicains,21266,25.75,53.81,Elu,Rassemblement National
+442,80004,80,Somme,4,4ème circonscription,Complet,85112,42561,50.01,42551,49.99,2986,3.51,7.02,845,0.99,1.99,38720,45.49,91.0,5,M,TANGUY,Jean-Philippe,Rassemblement National,21136,24.83,54.59,Elu,Ensemble!
+443,80005,80,Somme,5,5ème circonscription,Complet,81347,42037,51.68,39310,48.32,3880,4.77,9.87,1116,1.37,2.84,34314,42.18,87.29,2,F,MENACHE,Yael,Rassemblement National,20861,25.64,60.79,Elu,NUPES
+444,81001,81,Tarn,1,1ère circonscription,Complet,85129,41315,48.53,43814,51.47,5411,6.36,12.35,2378,2.79,5.43,36025,42.32,82.22,9,M,CABROLIER,Frédéric,Rassemblement National,19125,22.47,53.09,Elu,NUPES
+445,81002,81,Tarn,2,2ème circonscription,Complet,109876,47526,43.25,62350,56.75,1291,1.17,2.07,711,0.65,1.14,60348,54.92,96.79,12,F,ERODI,Karen,NUPES,22633,20.6,37.5,Elu,Ensemble!
+446,81003,81,Tarn,3,3ème circonscription,Complet,104171,50203,48.19,53968,51.81,4059,3.9,7.52,2435,2.34,4.51,47474,45.57,87.97,5,M,TERLIER,Jean,Ensemble!,25496,24.48,53.71,Elu,NUPES
+447,82001,82,Tarn-et-Garonne,1,1ère circonscription,Complet,93022,45622,49.04,47400,50.96,2779,2.99,5.86,1173,1.26,2.47,43448,46.71,91.66,5,F,RABAULT,Valérie,NUPES,25327,27.23,58.29,Elu,Rassemblement National
+448,82002,82,Tarn-et-Garonne,2,2ème circonscription,Complet,96326,48208,50.05,48118,49.95,3518,3.65,7.31,1538,1.6,3.2,43062,44.7,89.49,2,F,HAMELET,Marine,Rassemblement National,23678,24.58,54.99,Elu,Ensemble!
+449,83001,83,Var,1,1ère circonscription,Complet,72280,40984,56.7,31296,43.3,1615,2.23,5.16,426,0.59,1.36,29255,40.47,93.48,3,M,CHENEVARD,Yannick,Ensemble!,15649,21.65,53.49,Elu,Rassemblement National
+450,83002,83,Var,2,2ème circonscription,Complet,92512,51841,56.04,40671,43.96,1837,1.99,4.52,574,0.62,1.41,38260,41.36,94.07,1,F,LAVALETTE,Laure,Rassemblement National,19756,21.36,51.64,Elu,Ensemble!
+451,83003,83,Var,3,3ème circonscription,Complet,104086,54678,52.53,49408,47.47,2372,2.28,4.8,808,0.78,1.64,46228,44.41,93.56,13,M,RAMBAUD,Stephane,Rassemblement National,23307,22.39,50.42,Elu,Ensemble!
+452,83004,83,Var,4,4ème circonscription,Complet,112405,61946,55.11,50459,44.89,1969,1.75,3.9,811,0.72,1.61,47679,42.42,94.49,9,M,LOTTIAUX,Philippe,Rassemblement National,25581,22.76,53.65,Elu,Ensemble!
+453,83005,83,Var,5,5ème circonscription,Complet,101751,56080,55.11,45671,44.89,1542,1.52,3.38,645,0.63,1.41,43484,42.74,95.21,9,F,LECHANTEUX,Julie,Rassemblement National,24342,23.92,55.98,Elu,Ensemble!
+454,83006,83,Var,6,6ème circonscription,Complet,127524,70584,55.35,56940,44.65,2689,2.11,4.72,846,0.66,1.49,53405,41.88,93.79,11,M,GILETTI,Frank,Rassemblement National,30241,23.71,56.63,Elu,Ensemble!
+455,83007,83,Var,7,7ème circonscription,Complet,105189,59483,56.55,45706,43.45,2194,2.09,4.8,644,0.61,1.41,42868,40.75,93.79,12,M,BOCCALETTI,Frédéric,Rassemblement National,22311,21.21,52.05,Elu,Ensemble!
+456,83008,83,Var,8,8ème circonscription,Complet,109176,59230,54.25,49946,45.75,2417,2.21,4.84,965,0.88,1.93,46564,42.65,93.23,8,M,SCHRECK,Philippe,Rassemblement National,25576,23.43,54.93,Elu,Ensemble!
+457,84001,84,Vaucluse,1,1ère circonscription,Complet,73786,41738,56.57,32048,43.43,2458,3.33,7.67,804,1.09,2.51,28786,39.01,89.82,8,M,HEBRARD,Joris,Rassemblement National,14721,19.95,51.14,Elu,NUPES
+458,84002,84,Vaucluse,2,2ème circonscription,Complet,85845,45743,53.29,40102,46.71,2388,2.78,5.95,896,1.04,2.23,36818,42.89,91.81,4,F,AUZANOT,Bénédicte,Rassemblement National,19210,22.38,52.18,Elu,Ensemble!
+459,84003,84,Vaucluse,3,3ème circonscription,Complet,78864,42791,54.26,36073,45.74,2011,2.55,5.57,735,0.93,2.04,33327,42.26,92.39,4,M,DE LÉPINAU,Hervé,Rassemblement National,19604,24.86,58.82,Elu,Ensemble!
+460,84004,84,Vaucluse,4,4ème circonscription,Complet,90422,48770,53.94,41652,46.06,2560,2.83,6.15,685,0.76,1.64,38407,42.48,92.21,9,F,LORHO,Marie-France,Rassemblement National,21878,24.2,56.96,Elu,Ensemble!
+461,84005,84,Vaucluse,5,5ème circonscription,Complet,84399,44540,52.77,39859,47.23,2514,2.98,6.31,806,0.95,2.02,36539,43.29,91.67,9,M,LOVISOLO,Jean-François,Ensemble!,18564,22.0,50.81,Elu,Rassemblement National
+462,85001,85,Vendée,1,1ère circonscription,Complet,118663,65205,54.95,53458,45.05,2774,2.34,5.19,1531,1.29,2.86,49153,41.42,91.95,6,M,LATOMBE,Philippe,Ensemble!,27887,23.5,56.74,Elu,NUPES
+463,85002,85,Vendée,2,2ème circonscription,Complet,112172,58204,51.89,53968,48.11,3201,2.85,5.93,1604,1.43,2.97,49163,43.83,91.1,9,F,BELLAMY,Béatrice,Ensemble!,28722,25.61,58.42,Elu,NUPES
+464,85003,85,Vendée,3,3ème circonscription,Complet,135259,71334,52.74,63925,47.26,3674,2.72,5.75,1462,1.08,2.29,58789,43.46,91.97,8,M,BUCHOU,Stéphane,Ensemble!,36145,26.72,61.48,Elu,Rassemblement National
+465,85004,85,Vendée,4,4ème circonscription,Complet,102698,59813,58.24,42885,41.76,2898,2.82,6.76,890,0.87,2.08,39097,38.07,91.17,5,F,BESSE,Véronique,Divers droite,23336,22.72,59.69,Elu,Ensemble!
+466,85005,85,Vendée,5,5ème circonscription,Complet,84119,44148,52.48,39971,47.52,2497,2.97,6.25,887,1.05,2.22,36587,43.49,91.53,2,M,HENRIET,Pierre,Ensemble!,22296,26.51,60.94,Elu,Rassemblement National
+467,86001,86,Vienne,1,1ère circonscription,Complet,80591,40833,50.67,39758,49.33,1984,2.46,4.99,939,1.17,2.36,36835,45.71,92.65,6,F,BELLUCO,Lisa,NUPES,18918,23.47,51.36,Elu,Ensemble!
+468,86002,86,Vienne,2,2ème circonscription,Complet,79522,37201,46.78,42321,53.22,1877,2.36,4.44,852,1.07,2.01,39592,49.79,93.55,10,M,HOULIÉ,Sacha,Ensemble!,20267,25.49,51.19,Elu,NUPES
+469,86003,86,Vienne,3,3ème circonscription,Complet,73004,36692,50.26,36312,49.74,2930,4.01,8.07,1063,1.46,2.93,32319,44.27,89.0,6,M,LECAMP,Pascal,Ensemble!,17496,23.97,54.14,Elu,Rassemblement National
+470,86004,86,Vienne,4,4ème circonscription,Complet,73885,39824,53.9,34061,46.1,2160,2.92,6.34,865,1.17,2.54,31036,42.01,91.12,1,M,TURQUOIS,Nicolas,Ensemble!,16938,22.92,54.58,Elu,Rassemblement National
+471,87001,87,Haute-Vienne,1,1ère circonscription,Complet,84309,41285,48.97,43024,51.03,2439,2.89,5.67,1810,2.15,4.21,38775,45.99,90.12,8,M,MAUDET,Damien,NUPES,20710,24.56,53.41,Elu,Ensemble!
+472,87002,87,Haute-Vienne,2,2ème circonscription,Complet,98185,46695,47.56,51490,52.44,5192,5.29,10.08,2811,2.86,5.46,43487,44.29,84.46,1,M,DELAUTRETTE,Stéphane,NUPES,26730,27.22,61.47,Elu,Rassemblement National
+473,87003,87,Haute-Vienne,3,3ème circonscription,Complet,82050,39921,48.65,42129,51.35,2704,3.3,6.42,1898,2.31,4.51,37527,45.74,89.08,7,F,MEUNIER,Manon,NUPES,19551,23.83,52.1,Elu,Ensemble!
+474,88001,88,Vosges,1,1ère circonscription,Complet,76780,42864,55.83,33916,44.17,1508,1.96,4.45,507,0.66,1.49,31901,41.55,94.06,8,M,VIRY,Stéphane,Les Républicains,21448,27.93,67.23,Elu,Rassemblement National
+475,88002,88,Vosges,2,2ème circonscription,Complet,72550,38586,53.19,33964,46.81,1871,2.58,5.51,789,1.09,2.32,31304,43.15,92.17,2,M,VALENCE,David,Ensemble!,15823,21.81,50.55,Elu,Rassemblement National
+476,88003,88,Vosges,3,3ème circonscription,Complet,63943,34223,53.52,29720,46.48,1021,1.6,3.44,376,0.59,1.27,28323,44.29,95.3,5,M,NAEGELEN,Christophe,Divers droite,21035,32.9,74.27,Elu,Rassemblement National
+477,88004,88,Vosges,4,4ème circonscription,Complet,65292,32844,50.3,32448,49.7,1899,2.91,5.85,809,1.24,2.49,29740,45.55,91.65,4,M,GAULTIER,Jean-Jacques,Les Républicains,15440,23.65,51.92,Elu,Rassemblement National
+478,89001,89,Yonne,1,1ère circonscription,Complet,75760,38032,50.2,37728,49.8,3682,4.86,9.76,1047,1.38,2.78,32999,43.56,87.47,6,M,GRENON,Daniel,Rassemblement National,16864,22.26,51.1,Elu,NUPES
+479,89002,89,Yonne,2,2ème circonscription,Complet,73480,37805,51.45,35675,48.55,2271,3.09,6.37,771,1.05,2.16,32633,44.41,91.47,4,M,VILLIERS,André,Ensemble!,16750,22.8,51.33,Elu,Rassemblement National
+480,89003,89,Yonne,3,3ème circonscription,Complet,89743,48233,53.75,41510,46.25,2361,2.63,5.69,771,0.86,1.86,38378,42.76,92.45,2,M,ODOUL,Julien,Rassemblement National,21429,23.88,55.84,Elu,Ensemble!
+481,90001,90,Territoire de Belfort,1,1ère circonscription,Complet,47739,26086,54.64,21653,45.36,1513,3.17,6.99,603,1.26,2.78,19537,40.92,90.23,5,M,BOUCARD,Ian,Les Républicains,12037,25.21,61.61,Elu,Rassemblement National
+482,90002,90,Territoire de Belfort,2,2ème circonscription,Complet,46507,24390,52.44,22117,47.56,2735,5.88,12.37,935,2.01,4.23,18447,39.66,83.41,1,M,CHAUCHE,Florian,NUPES,9476,20.38,51.37,Elu,Rassemblement National
+483,91001,91,Essonne,1,1ère circonscription,Complet,73488,45705,62.19,27783,37.81,1378,1.88,4.96,548,0.75,1.97,25857,35.19,93.07,8,F,AMRANI,Farida,NUPES,15471,21.05,59.83,Elu,Ensemble!
+484,91002,91,Essonne,2,2ème circonscription,Complet,91963,49368,53.68,42595,46.32,4597,5.0,10.79,1188,1.29,2.79,36810,40.03,86.42,6,F,DA CONCEICAO CARVALHO,Nathalie,Rassemblement National,19607,21.32,53.27,Elu,NUPES
+485,91003,91,Essonne,3,3ème circonscription,Complet,98728,50524,51.17,48204,48.83,2761,2.8,5.73,1078,1.09,2.24,44365,44.94,92.04,5,M,IZARD,Alexis,Ensemble!,22706,23.0,51.18,Elu,NUPES
+486,91004,91,Essonne,4,4ème circonscription,Complet,98723,50463,51.12,48260,48.88,2531,2.56,5.24,876,0.89,1.82,44853,45.43,92.94,9,F,RIXAIN,Marie-Pierre,Ensemble!,24962,25.28,55.65,Elu,NUPES
+487,91005,91,Essonne,5,5ème circonscription,Complet,68469,29517,43.11,38952,56.89,1145,1.67,2.94,451,0.66,1.16,37356,54.56,95.9,3,M,MIDY,Paul,Ensemble!,18687,27.29,50.02,Elu,NUPES
+488,91006,91,Essonne,6,6ème circonscription,Complet,83269,41509,49.85,41760,50.15,1434,1.72,3.43,570,0.68,1.36,39756,47.74,95.2,12,M,GUEDJ,Jérôme,NUPES,21213,25.48,53.36,Elu,Ensemble!
+489,91007,91,Essonne,7,7ème circonscription,Complet,73554,40160,54.6,33394,45.4,1175,1.6,3.52,563,0.77,1.69,31656,43.04,94.8,4,M,REDA,Robin,Ensemble!,15935,21.66,50.34,Elu,NUPES
+490,91008,91,Essonne,8,8ème circonscription,Complet,75988,39868,52.47,36120,47.53,1881,2.48,5.21,520,0.68,1.44,33719,44.37,93.35,1,M,DUPONT-AIGNAN,Nicolas,Droite souverainiste,19306,25.41,57.26,Elu,NUPES
+491,91009,91,Essonne,9,9ème circonscription,Complet,78755,43247,54.91,35508,45.09,1703,2.16,4.8,636,0.81,1.79,33169,42.12,93.41,1,F,GUÉVENOUX,Marie,Ensemble!,17005,21.59,51.27,Elu,NUPES
+492,91010,91,Essonne,10,10ème circonscription,Complet,61842,36072,58.33,25770,41.67,1114,1.8,4.32,526,0.85,2.04,24130,39.02,93.64,12,M,LÉAUMENT,Antoine,NUPES,13321,21.54,55.21,Elu,Ensemble!
+493,92001,92,Hauts-de-Seine,1,1ère circonscription,Complet,65841,40522,61.55,25319,38.45,1002,1.52,3.96,183,0.28,0.72,24134,36.65,95.32,11,F,FAUCILLON,Elsa,NUPES,16934,25.72,70.17,Elu,Ensemble!
+494,92002,92,Hauts-de-Seine,2,2ème circonscription,Complet,69751,29536,42.34,40215,57.66,690,0.99,1.72,163,0.23,0.41,39362,56.43,97.88,6,F,PASQUINI,Francesca,NUPES,13995,20.06,35.55,Elu,Ensemble!
+495,92003,92,Hauts-de-Seine,3,3ème circonscription,Complet,82694,36887,44.61,45807,55.39,772,0.93,1.69,78,0.09,0.17,44957,54.37,98.14,8,M,JUVIN,Philippe,Les Républicains,17083,20.66,38.0,Elu,NUPES et Ensemble!
+496,92004,92,Hauts-de-Seine,4,4ème circonscription,Complet,80993,42895,52.96,38098,47.04,1544,1.91,4.05,239,0.3,0.63,36315,44.84,95.32,9,F,SEBAIHI,Sabrina,NUPES,18520,22.87,51.0,Elu,Ensemble!
+497,92005,92,Hauts-de-Seine,5,5ème circonscription,Complet,75584,37597,49.74,37987,50.26,1330,1.76,3.5,519,0.69,1.37,36138,47.81,95.13,13,F,CALVEZ,Céline,Ensemble!,21584,28.56,59.73,Elu,NUPES
+498,92006,92,Hauts-de-Seine,6,6ème circonscription,Complet,76272,36158,47.41,40114,52.59,2092,2.74,5.22,702,0.92,1.75,37320,48.93,93.03,12,F,LE GRIP,Constance,Ensemble!,27688,36.3,74.19,Elu,NUPES
+499,92007,92,Hauts-de-Seine,7,7ème circonscription,Complet,87926,42381,48.2,45545,51.8,2375,2.7,5.21,554,0.63,1.22,42616,48.47,93.57,8,M,CAZENEUVE,Pierre,Ensemble!,30710,34.93,72.06,Elu,NUPES
+500,92008,92,Hauts-de-Seine,8,8ème circonscription,Complet,68055,30032,44.13,38023,55.87,2061,3.03,5.42,327,0.48,0.86,35635,52.36,93.72,6,F,THEVENOT,Prisca,Ensemble!,23431,34.43,65.75,Elu,NUPES
+501,92009,92,Hauts-de-Seine,9,9ème circonscription,Complet,63461,31668,49.9,31793,50.1,2413,3.8,7.59,0,0.0,0.0,29380,46.3,92.41,12,M,PELLERIN,Emmanuel,Ensemble!,15838,24.96,53.91,Elu,Les Républicains
+502,92010,92,Hauts-de-Seine,10,10ème circonscription,Complet,79543,36933,46.43,42610,53.57,2251,2.83,5.28,182,0.23,0.43,40177,50.51,94.29,7,M,ATTAL,Gabriel,Ensemble!,24047,30.23,59.85,Elu,NUPES
+503,92011,92,Hauts-de-Seine,11,11ème circonscription,Complet,70797,33531,47.36,37266,52.64,1060,1.5,2.84,442,0.62,1.19,35764,50.52,95.97,5,M,SAINTOUL,Aurélien,NUPES,19583,27.66,54.76,Elu,Ensemble!
+504,92012,92,Hauts-de-Seine,12,12ème circonscription,Complet,93387,43052,46.1,50335,53.9,2002,2.14,3.98,726,0.78,1.44,47607,50.98,94.58,11,M,BOURLANGES,Jean-Louis,Ensemble!,27386,29.33,57.53,Elu,NUPES
+505,92013,92,Hauts-de-Seine,13,13ème circonscription,Complet,90066,39978,44.39,50088,55.61,2705,3.0,5.4,247,0.27,0.49,47136,52.33,94.11,3,F,BREGEON,Maud,Ensemble!,27864,30.94,59.11,Elu,NUPES
+506,93001,93,Seine-Saint-Denis,1,1ère circonscription,Complet,67264,41824,62.18,25440,37.82,750,1.12,2.95,339,0.5,1.33,24351,36.2,95.72,15,M,COQUEREL,Eric,NUPES,17456,25.95,71.68,Elu,Ensemble!
+507,93002,93,Seine-Saint-Denis,2,2ème circonscription,Complet,55152,37614,68.2,17538,31.8,549,1.0,3.13,242,0.44,1.38,16747,30.37,95.49,4,M,PEU,Stéphane,NUPES,13180,23.9,78.7,Elu,Ensemble!
+508,93003,93,Seine-Saint-Denis,3,3ème circonscription,Complet,75681,42017,55.52,33664,44.48,1427,1.89,4.24,572,0.76,1.7,31665,41.84,94.06,4,M,PORTES,Thomas,NUPES,17085,22.58,53.96,Elu,Ensemble!
+509,93004,93,Seine-Saint-Denis,4,4ème circonscription,Complet,65132,48841,74.99,16291,25.01,3155,4.84,19.37,304,0.47,1.87,12832,19.7,78.77,4,F,BOUROUAHA,Soumya,NUPES,12832,19.7,100.0,Elu,
+510,93005,93,Seine-Saint-Denis,5,5ème circonscription,Complet,65244,39723,60.88,25521,39.12,690,1.06,2.7,329,0.5,1.29,24502,37.55,96.01,6,F,GARRIDO,Raquel,NUPES,13107,20.09,53.49,Elu,Union des démocrates et indépendants
+511,93006,93,Seine-Saint-Denis,6,6ème circonscription,Complet,58109,35796,61.6,22313,38.4,707,1.22,3.17,324,0.56,1.45,21282,36.62,95.38,8,M,LACHAUD,Bastien,NUPES,16046,27.61,75.4,Elu,Ensemble!
+512,93007,93,Seine-Saint-Denis,7,7ème circonscription,Complet,80662,43639,54.1,37023,45.9,756,0.94,2.04,173,0.21,0.47,36094,44.75,97.49,11,M,CORBIÈRE,Alexis,NUPES,22718,28.16,62.94,Elu,Elu au premier tour
+513,93008,93,Seine-Saint-Denis,8,8ème circonscription,Complet,61647,35255,57.19,26392,42.81,1458,2.37,5.52,352,0.57,1.33,24582,39.88,93.14,5,F,KELOUA HACHI,Fatiha,NUPES,13169,21.36,53.57,Elu,Ensemble!
+514,93009,93,Seine-Saint-Denis,9,9ème circonscription,Complet,73747,42932,58.22,30815,41.78,1047,1.42,3.4,473,0.64,1.53,29295,39.72,95.07,2,F,TROUVÉ,Aurélie,NUPES,20285,27.51,69.24,Elu,Ensemble!
+515,93010,93,Seine-Saint-Denis,10,10ème circonscription,Complet,69264,42633,61.55,26631,38.45,756,1.09,2.84,253,0.37,0.95,25622,36.99,96.21,9,F,ABOMANGOLI,Nadège,NUPES,14228,20.54,55.53,Elu,Les Républicains
+516,93011,93,Seine-Saint-Denis,11,11ème circonscription,Complet,63427,48900,77.1,14527,22.9,2691,4.24,18.52,540,0.85,3.72,11296,17.81,77.76,7,F,AUTAIN,Clémentine,NUPES,11296,17.81,100.0,Elu,
+517,93012,93,Seine-Saint-Denis,12,12ème circonscription,Complet,65423,40954,62.6,24469,37.4,1182,1.81,4.83,439,0.67,1.79,22848,34.92,93.38,9,M,LEGAVRE,Jérôme,NUPES,11677,17.85,51.11,Elu,Ensemble!
+518,94001,94,Val-de-Marne,1,1ère circonscription,Complet,85157,42112,49.45,43045,50.55,1798,2.11,4.18,717,0.84,1.67,40530,47.59,94.16,2,M,DESCROZAILLE,Frédéric,Ensemble!,23949,28.12,59.09,Elu,NUPES
+519,94002,94,Val-de-Marne,2,2ème circonscription,Complet,66114,38982,58.96,27132,41.04,999,1.51,3.68,397,0.6,1.46,25736,38.93,94.85,1,F,GUETTÉ,Clémence,NUPES,16523,24.99,64.2,Elu,Ensemble!
+520,94003,94,Val-de-Marne,3,3ème circonscription,Complet,74047,42848,57.87,31199,42.13,1665,2.25,5.34,507,0.68,1.63,29027,39.2,93.04,4,M,BOYARD,Louis,NUPES,15087,20.37,51.98,Elu,Ensemble!
+521,94004,94,Val-de-Marne,4,4ème circonscription,Complet,74068,39571,53.43,34497,46.57,1648,2.22,4.78,607,0.82,1.76,32242,43.53,93.46,1,F,PETIT,Maud,Ensemble!,18050,24.37,55.98,Elu,NUPES
+522,94005,94,Val-de-Marne,5,5ème circonscription,Complet,90294,47442,52.54,42852,47.46,1627,1.8,3.8,476,0.53,1.11,40749,45.13,95.09,10,M,LEFEVRE,Mathieu,Ensemble!,23010,25.48,56.47,Elu,NUPES
+523,94006,94,Val-de-Marne,6,6ème circonscription,Complet,82124,37178,45.27,44946,54.73,1329,1.62,2.96,540,0.66,1.2,43077,52.45,95.84,2,M,GOUFFIER-CHA,Guillaume,Ensemble!,23416,28.51,54.36,Elu,NUPES
+524,94007,94,Val-de-Marne,7,7ème circonscription,Complet,66273,35562,53.66,30711,46.34,1152,1.74,3.75,410,0.62,1.34,29149,43.98,94.91,2,F,KEKE,Rachel,NUPES,14663,22.13,50.3,Elu,Ensemble!
+525,94008,94,Val-de-Marne,8,8ème circonscription,Complet,78529,36613,46.62,41916,53.38,1027,1.31,2.45,364,0.46,0.87,40525,51.61,96.68,10,M,HERBILLON,Michel,Les Républicains,25641,32.65,63.27,Elu,NUPES
+526,94009,94,Val-de-Marne,9,9ème circonscription,Complet,54172,32476,59.95,21696,40.05,792,1.46,3.65,426,0.79,1.96,20478,37.8,94.39,3,F,SANTIAGO,Isabelle,NUPES,13771,25.42,67.25,Elu,Ensemble!
+527,94010,94,Val-de-Marne,10,10ème circonscription,Complet,67134,38021,56.63,29113,43.37,973,1.45,3.34,432,0.64,1.48,27708,41.27,95.17,7,F,PANOT,Mathilde,NUPES,18739,27.91,67.63,Elu,Ensemble!
+528,94011,94,Val-de-Marne,11,11ème circonscription,Complet,64990,35119,54.04,29871,45.96,1149,1.77,3.85,332,0.51,1.11,28390,43.68,95.04,3,F,TAILLÉ-POLIAN,Sophie,NUPES,17977,27.66,63.32,Elu,Ensemble!
+529,95001,95,Val-d'Oise,1,1ère circonscription,Complet,82738,43677,52.79,39061,47.21,2486,3.0,6.36,829,1.0,2.12,35746,43.2,91.51,5,F,CHANDLER,Emilie,Ensemble!,18777,22.69,52.53,Elu,NUPES
+530,95002,95,Val-d'Oise,2,2ème circonscription,Complet,78171,42767,54.71,35404,45.29,1858,2.38,5.25,751,0.96,2.12,32795,41.95,92.63,12,M,VUILLETET,Guillaume,Ensemble!,17462,22.34,53.25,Elu,NUPES
+531,95003,95,Val-d'Oise,3,3ème circonscription,Complet,94579,51190,54.12,43389,45.88,1954,2.07,4.5,793,0.84,1.83,40642,42.97,93.67,8,F,RILHAC,Cécile,Ensemble!,21200,22.42,52.16,Elu,NUPES
+532,95004,95,Val-d'Oise,4,4ème circonscription,Complet,75566,39861,52.75,35705,47.25,1671,2.21,4.68,590,0.78,1.65,33444,44.26,93.67,3,F,MOUTCHOU,Naïma,Ensemble!,17869,23.65,53.43,Elu,NUPES
+533,95005,95,Val-d'Oise,5,5ème circonscription,Complet,69293,43421,62.66,25872,37.34,905,1.31,3.5,409,0.59,1.58,24558,35.44,94.92,5,M,VANNIER,Paul,NUPES,15645,22.58,63.71,Elu,Ensemble!
+534,95006,95,Val-d'Oise,6,6ème circonscription,Complet,75352,41149,54.61,34203,45.39,1388,1.84,4.06,564,0.75,1.65,32251,42.8,94.29,9,F,FOLEST,Estelle,Ensemble!,17245,22.89,53.47,Elu,NUPES
+535,95007,95,Val-d'Oise,7,7ème circonscription,Complet,69386,39936,57.56,29450,42.44,1285,1.85,4.36,497,0.72,1.69,27668,39.88,93.95,5,M,DA SILVA,Dominique,Ensemble!,13936,20.08,50.37,Elu,NUPES
+536,95008,95,Val-d'Oise,8,8ème circonscription,Complet,54531,35353,64.83,19178,35.17,603,1.11,3.14,296,0.54,1.54,18279,33.52,95.31,6,M,BILONGO,Carlos Martens,NUPES,11282,20.69,61.72,Elu,Ensemble!
+537,95009,95,Val-d'Oise,9,9ème circonscription,Complet,70504,44023,62.44,26481,37.56,2034,2.88,7.68,638,0.9,2.41,23809,33.77,89.91,3,M,LE GALL,Arnaud,NUPES,13432,19.05,56.42,Elu,Rassemblement National
+538,95010,95,Val-d'Oise,10,10ème circonscription,Complet,67953,39943,58.78,28010,41.22,1363,2.01,4.87,398,0.59,1.42,26249,38.63,93.71,5,M,TACHÉ,Aurélien,NUPES,14636,21.54,55.76,Elu,Ensemble!
+539,ZA001,ZA,Guadeloupe,1,1ère circonscription,Complet,75973,52948,69.69,23025,30.31,799,1.05,3.47,1124,1.48,4.88,21102,27.78,91.65,2,M,SERVA,Olivier,Divers gauche,15624,20.57,74.04,Elu,Divers gauche
+540,ZA002,ZA,Guadeloupe,2,2ème circonscription,Complet,87777,59511,67.8,28266,32.2,770,0.88,2.72,1097,1.25,3.88,26399,30.08,93.39,11,M,BAPTISTE,Christian,Divers gauche,15484,17.64,58.65,Elu,Ensemble!
+541,ZA003,ZA,Guadeloupe,3,3ème circonscription,Complet,84339,58807,69.73,25532,30.27,889,1.05,3.48,848,1.01,3.32,23795,28.21,93.2,16,M,MATHIASIN,Max,Divers gauche,12402,14.7,52.12,Elu,Rassemblement National
+542,ZA004,ZA,Guadeloupe,4,4ème circonscription,Complet,68265,55764,81.69,12501,18.31,1384,2.03,11.07,484,0.71,3.87,10633,15.58,85.06,12,M,CALIFER,Elie,Divers gauche,10633,15.58,100.0,Elu,
+543,ZB001,ZB,Martinique,1,1ère circonscription,Complet,80030,60645,75.78,19385,24.22,748,0.93,3.86,626,0.78,3.23,18011,22.51,92.91,15,M,WILLIAM,Jiovanny,Divers gauche,11336,14.16,62.94,Elu,Régionalistes
+544,ZB002,ZB,Martinique,2,2ème circonscription,Complet,80053,58543,73.13,21510,26.87,787,0.98,3.66,611,0.76,2.84,20112,25.12,93.5,2,M,NADEAU,Marcellin,Régionalistes,12764,15.94,63.46,Elu,Régionalistes
+545,ZB003,ZB,Martinique,3,3ème circonscription,Complet,60512,46088,76.16,14424,23.84,670,1.11,4.65,452,0.75,3.13,13302,21.98,92.22,12,M,HAJJAR,Johnny,Divers gauche,7813,12.91,58.74,Elu,Régionalistes
+546,ZB004,ZB,Martinique,4,4ème circonscription,Complet,83960,60986,72.64,22974,27.36,820,0.98,3.57,676,0.81,2.94,21478,25.58,93.49,11,M,NILOR,Jean-Philippe,Régionalistes,15329,18.26,71.37,Elu,Régionalistes
+547,ZC001,ZC,Guyane,1,1ère circonscription,Complet,57003,39947,70.08,17056,29.92,688,1.21,4.03,379,0.66,2.22,15989,28.05,93.74,12,M,CASTOR,Jean-Victor,Régionalistes,9038,15.86,56.53,Elu,Régionalistes
+548,ZC002,ZC,Guyane,2,2ème circonscription,Complet,46589,30912,66.35,15677,33.65,222,0.48,1.42,164,0.35,1.05,15291,32.82,97.54,4,M,RIMANE,Davy,Divers gauche,8277,17.77,54.13,Elu,Ensemble!
+549,ZD001,ZD,La Réunion,1,1ère circonscription,Complet,85938,58634,68.23,27304,31.77,1564,1.82,5.73,1224,1.42,4.48,24516,28.53,89.79,13,M,NAILLET,Philippe,Divers gauche,14876,17.31,60.68,Elu,Divers droite
+550,ZD002,ZD,La Réunion,2,2ème circonscription,Complet,98988,70114,70.83,28874,29.17,1205,1.22,4.17,1492,1.51,5.17,26177,26.44,90.66,5,F,LEBON,Karine,Divers gauche,18164,18.35,69.39,Elu,Union des démocrates et indépendants
+551,ZD003,ZD,La Réunion,3,3ème circonscription,Complet,96233,62015,64.44,34218,35.56,2215,2.3,6.47,2726,2.83,7.97,29277,30.42,85.56,7,F,BASSIRE,Nathalie,Divers droite,15186,15.78,51.87,Elu,Divers droite
+552,ZD004,ZD,La Réunion,4,4ème circonscription,Complet,108941,60812,55.82,48129,44.18,1395,1.28,2.9,1839,1.69,3.82,44895,41.21,93.28,11,F,K/BIDI,Emeline,Divers gauche,27532,25.27,61.33,Elu,Les Républicains
+553,ZD005,ZD,La Réunion,5,5ème circonscription,Complet,87703,57253,65.28,30450,34.72,923,1.05,3.03,1269,1.45,4.17,28258,32.22,92.8,7,M,RATENON,Jean-Hugues,Divers gauche,17748,20.24,62.81,Elu,Divers gauche
+554,ZD006,ZD,La Réunion,6,6ème circonscription,Complet,82050,56043,68.3,26007,31.7,1146,1.4,4.41,973,1.19,3.74,23888,29.11,91.85,7,M,MAILLOT,Frédéric,Divers gauche,12659,15.43,52.99,Elu,
+555,ZD007,ZD,La Réunion,7,7ème circonscription,Complet,118287,77977,65.92,40310,34.08,2234,1.89,5.54,2114,1.79,5.24,35962,30.4,89.21,13,M,GAILLARD,Perceval,Divers gauche,18425,15.58,51.23,Elu,Divers centre
+556,ZM001,ZM,Mayotte,1,1ère circonscription,Complet,42866,23400,54.59,19466,45.41,510,1.19,2.62,661,1.54,3.4,18295,42.68,93.98,10,F,YOUSSOUFFA,Estelle,Divers,12180,28.41,66.58,Elu,Divers
+557,ZM002,ZM,Mayotte,2,2ème circonscription,Complet,49867,23508,47.14,26359,52.86,890,1.78,3.38,1413,2.83,5.36,24056,48.24,91.26,6,M,KAMARDINE,Mansour,Les Républicains,14250,28.58,59.24,Elu,Divers centre
+558,ZN001,ZN,Nouvelle-Calédonie,1,1ère circonscription,Complet,96932,57205,59.02,39727,40.98,771,0.8,1.94,325,0.34,0.82,38631,39.85,97.24,3,M,DUNOYER,Philippe,Ensemble!,25652,26.46,66.4,Elu,Régionalistes
+559,ZN002,ZN,Nouvelle-Calédonie,2,2ème circonscription,Complet,122222,62991,51.54,59231,48.46,808,0.66,1.36,525,0.43,0.89,57898,47.37,97.75,3,M,METZDORF,Nicolas,Ensemble!,31398,25.69,54.23,Elu,Régionalistes
+560,ZP001,ZP,Polynésie française,1,1ère circonscription,Complet,72170,32942,45.65,39228,54.35,471,0.65,1.2,383,0.53,0.98,38374,53.17,97.82,2,M,LE GAYIC,Tematai,Régionalistes,19523,27.05,50.88,Elu,Ensemble!
+561,ZP002,ZP,Polynésie française,2,2ème circonscription,Complet,67260,32601,48.47,34659,51.53,349,0.52,1.01,386,0.57,1.11,33924,50.44,97.88,5,M,CHAILLOUX,Steve,Régionalistes,19977,29.7,58.89,Elu,Ensemble!
+562,ZP003,ZP,Polynésie française,3,3ème circonscription,Complet,66921,30372,45.38,36549,54.62,399,0.6,1.09,376,0.56,1.03,35774,53.46,97.88,1,M,BROTHERSON,Moetai,Régionalistes,21937,32.78,61.32,Elu,Ensemble!
+563,ZS001,ZS,Saint-Pierre-et-Miquelon,1,Saint-Pierre-et-Miquelon,Complet,5049,2224,44.05,2825,55.95,121,2.4,4.28,65,1.29,2.3,2639,52.27,93.42,4,M,LENORMAND,Stéphane,Divers droite,1329,26.32,50.36,Elu,Divers gauche
+564,ZW001,ZW,Wallis et Futuna,1,1ère circonscription,Complet,9580,2064,21.54,7516,78.46,62,0.65,0.82,36,0.38,0.48,7418,77.43,98.7,8,M,SEO,Mikaele,Divers centre,3717,38.8,50.11,Elu,Divers centre
+565,ZX001,ZX,Saint-Martin/Saint-Barthélemy,1,1ère circonscription,Complet,24567,18533,75.44,6034,24.56,122,0.5,2.02,78,0.32,1.29,5834,23.75,96.69,6,M,GUMBS,Frantz,Divers centre,3921,15.96,67.21,Elu,Divers droite
+566,ZZ001,ZZ,Français établis hors de France,1,1ère circonscription,Complet,240992,184549,76.58,56443,23.42,1961,0.81,3.47,69,0.03,0.12,54413,22.58,96.4,9,M,LESCURE,Roland,Ensemble!,30268,12.56,55.63,Elu,NUPES
+567,ZZ002,ZZ,Français établis hors de France,2,2ème circonscription,Complet,75621,63301,83.71,12320,16.29,530,0.7,4.3,57,0.08,0.46,11733,15.52,95.24,8,F,CAROIT,Eléonore,Ensemble!,6737,8.91,57.42,Elu,NUPES
+568,ZZ003,ZZ,Français établis hors de France,3,3ème circonscription,Complet,148662,103099,69.35,45563,30.65,1170,0.79,2.57,43,0.03,0.09,44350,29.83,97.34,4,M,HOLROYD,Alexandre,Ensemble!,24749,16.65,55.8,Elu,NUPES
+569,ZZ004,ZZ,Français établis hors de France,4,4ème circonscription,Complet,148171,99902,67.42,48269,32.58,1615,1.09,3.35,67,0.05,0.14,46587,31.44,96.52,10,M,ANGLADE,Pieyre-Alexandre,Ensemble!,25694,17.34,55.15,Elu,NUPES
+570,ZZ005,ZZ,Français établis hors de France,5,5ème circonscription,Complet,105032,77767,74.04,27265,25.96,1287,1.23,4.72,69,0.07,0.25,25909,24.67,95.03,12,M,VOJETTA,Stéphane,Divers centre,14836,14.13,57.26,Elu,NUPES
+571,ZZ006,ZZ,Français établis hors de France,6,6ème circonscription,Complet,150077,111941,74.59,38136,25.41,1973,1.31,5.17,84,0.06,0.22,36079,24.04,94.61,13,M,FERRACCI,Marc,Ensemble!,23441,15.62,64.97,Elu,NUPES
+572,ZZ007,ZZ,Français établis hors de France,7,7ème circonscription,Complet,123403,83482,67.65,39921,32.35,1317,1.07,3.3,85,0.07,0.21,38519,31.21,96.49,2,M,PETIT,Frédéric,Ensemble!,23191,18.79,60.21,Elu,NUPES
+573,ZZ008,ZZ,Français établis hors de France,8,8ème circonscription,Complet,131216,112933,86.07,18283,13.93,1468,1.12,8.03,68,0.05,0.37,16747,12.76,91.6,8,M,HABIB,Meyer,Union des démocrates et indépendants,8470,6.46,50.58,Elu,Ensemble!
+574,ZZ009,ZZ,Français établis hors de France,9,9ème circonscription,Complet,120553,98709,81.88,21844,18.12,795,0.66,3.64,62,0.05,0.28,20987,17.41,96.08,3,M,BEN CHEÏKH,Karim,NUPES,11348,9.41,54.07,Elu,Ensemble!
+575,ZZ010,ZZ,Français établis hors de France,10,10ème circonscription,Complet,104452,82695,79.17,21757,20.83,1136,1.09,5.22,99,0.09,0.46,20522,19.65,94.32,4,F,LAKRAFI,Amélia,Ensemble!,13048,12.49,63.58,Elu,NUPES
+576,ZZ011,ZZ,Français établis hors de France,11,11ème circonscription,Complet,98847,70238,71.06,28609,28.94,1718,1.74,6.01,101,0.1,0.35,26790,27.1,93.64,1,F,GENETET,Anne,Ensemble!,16537,16.73,61.73,Elu,NUPES
