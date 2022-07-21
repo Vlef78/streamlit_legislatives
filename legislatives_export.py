@@ -2,10 +2,12 @@
 # ### Initialisation
 
 # %%
+import streamlit
 import pandas as pd
 import plotly.express as px
 
-
+streamlit.title('Carte des résulats aux élections législavives françaises 2022')
+streamlit.header('C\'est pas trop dégueu, non ?')
 
 
 # %% [markdown]
