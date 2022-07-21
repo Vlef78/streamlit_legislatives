@@ -4,10 +4,10 @@
 # %%
 import streamlit
 import pandas as pd
+import json
 import plotly.express as px
 
-streamlit.title('Carte des résulats aux élections législavives françaises 2022')
-streamlit.header('C\'est pas trop dégueu, non ?')
+streamlit.title('Carte des résulats des élections législavives françaises 2022')
 
 
 # %% [markdown]
@@ -16,17 +16,19 @@ streamlit.header('C\'est pas trop dégueu, non ?')
 # %%
 
 data = pd.read_csv('data_leg_final.csv')
+streamlit.text('Données')
 data
 
 
 # %%
-import json
 
 with open('france-circonscriptions-legislatives-2012.json', 'r') as file:
     circonscriptions = json.load(file)
 
 # %%
+
 # ### Visualisation
+streamlit.text('Carte')
 labels = {
     'Libellé_circonscription' : 'Circonscription',
     'Libellé_département' : 'Département',
